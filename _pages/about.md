@@ -17,12 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Liu Zhenghao, Associate Professor of Northeastern University, is a guest researcher at Tsinghua University's Natural Language Processing Laboratory. I obtained his Bachelor's degree in Engineering from Northeastern University in 2016 and was directly admitted to Tsinghua University's State Key Laboratory of Intelligent Technology and Systems as a Ph.D. student, under the supervision of Professor Sun Maosong ([<A href="./papers/lzh_thesis.pdf" target="_blank">thesis</A>]). His main research interests include natural language processing and information retrieval, and he earned his Ph.D. degree from Tsinghua University in 2021.
+Liu Zhenghao, Associate Professor of Northeastern University, is a guest researcher at Tsinghua University's Natural Language Processing Laboratory. I obtained my Bachelor's degree in Engineering from Northeastern University in 2016 and was directly admitted to Tsinghua University's State Key Laboratory of Intelligent Technology and Systems as a Ph.D. student, under the supervision of Professor Sun Maosong. My main research interests include natural language processing and information retrieval, and I earned my Ph.D. degree from Tsinghua University in 2021 ([<A href="./papers/lzh_thesis.pdf" target="_blank">thesis</A>]).
 
-I graduated from Northeastern University with a bachelor’s degree and from the Department of Computer Science and Technology, Tsinghua University (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>) with a master’s degree, advised by Maosong Sun (孙茂松 <a href='https://scholar.google.com/citations?user=zIgT0HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). I also collaborate with Zhiyuan Liu (刘知远 <a href='https://scholar.google.com/citations?user=dT0v5u0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), Chenyan Xiong (熊辰炎 <a href='https://scholar.google.com/citations?user=E9BaEBYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), Shuo Wang (王硕), Yukun Yan (闫宇坤), Liner Yang (杨麟儿), and Zhulong Chen (陈祖龙) from Tsinghua University, Carnegie Mellon University, Beijing Language and Culture University and Alibaba closely. We only pay more attention to build the OpenMatch toolkit (<a href="https://github.com/OpenMatch" target="_blank">OpenMatch</a>)
-
-
-My research interest includes information retrieval and large language models. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1800</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from Northeastern University with a bachelor’s degree and from the Department of Computer Science and Technology, Tsinghua University (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>) with a master’s degree, advised by Maosong Sun (孙茂松 <a href='https://scholar.google.com/citations?user=zIgT0HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). I also collaborate with Zhiyuan Liu (刘知远 <a href='https://scholar.google.com/citations?user=dT0v5u0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), Chenyan Xiong (熊辰炎 <a href='https://scholar.google.com/citations?user=E9BaEBYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), Shuo Wang (王硕), Yukun Yan (闫宇坤), Liner Yang (杨麟儿), and Zhulong Chen (陈祖龙) from Tsinghua University, Carnegie Mellon University, Beijing Language and Culture University, and Alibaba closely. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1800</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). We now pay more attention to build the OpenMatch toolkit and focus on the research of LLM and data twinning (<a href="https://github.com/OpenMatch" target="_blank">OpenMatch</a>).
 
 
 # 🔥 News
@@ -37,7 +34,7 @@ My research interest includes information retrieval and large language models. I
   <ul>
     # indicates corresponding author.
   </ul>
-<ul>
+
 
 <h3><strong>2024</strong></h3>
 
@@ -50,7 +47,7 @@ My research interest includes information retrieval and large language models. I
 
 <li>Cheng Qian, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Toolink: Linking toolkit creation and using through chain-of-solving on open-source model. <i> 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). </i> [<A href="https://arxiv.org/abs/2310.05155" target="_blank">pdf</A>][<A href="https://github.com/qiancheng0/Toolink" target="_blank">codes</A>].
 
-<li>Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, <b>Zhenghao Liu</b>, Christian S Jensen, Ge Yu. CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network. <i> IEEE Transactions on Knowledge and Data Engineering (TKDE). </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10478209" target="_blank">pdf</A>][<A href="https://github.com/qiancheng0/Toolink" target="_blank">https://github.com/yumengs-exp/CHGNN</A>].
+<li>Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, <b>Zhenghao Liu</b>, Christian S Jensen, Ge Yu. CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network. <i> IEEE Transactions on Knowledge and Data Engineering (TKDE). </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10478209" target="_blank">pdf</A>][<A href="https://github.com/yumengs-exp/CHGNN" target="_blank">code</A>].
 
 <h3><strong>2023</strong></h3>
 
@@ -126,14 +123,13 @@ My research interest includes information retrieval and large language models. I
 <h3><strong>2017</strong></h3>
 <li> Liner Yang, Maosong Sun, Jiacheng Zhang, <b>Zhenghao Liu</b>, Huanbo Luan, Yang Liu. Neural Parse Combination. <i> Journal of Computer Science and Technology, 2017.</i>[<A href="https://link.springer.com/article/10.1007/s11390-017-1756-5" target="_blank">pdf</A>].
 
-  
-</ul>
 
 
 # 📖 Educations
 - *Aug, 2021 - Now*, Dept. of Computer Science and Technology (<a href="https://neuir.github.io" target="_blank">NEUIR Lab</a>), Northeastern University, Shenyang, China. 
 - *Aug, 2016 - Jun, 2021*, Dept. of Computer Science and Technology (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>), Tsinghua University, Beijing, China. 
 - *Sep, 2012 - Jul, 2016*, Dept. of Computer Science and Technology, Northeastern University, Shenyang, China. 
+
 
 # 💬 Invited Talks
 - *2021.06*, "From Exact Matching to Semantic Matching: Using neural models for ranking" at Hong Kong University of Science and Technology (HKUST) [<A href="./slides/hkust_neuir.pdf" target="_blank">slides</A>].
