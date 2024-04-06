@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Liu Zhenghao, Associate Professor of Northeastern University, is a guest researcher at Tsinghua University's Natural Language Processing Laboratory. I obtained his Bachelor's degree in Engineering from Northeastern University in 2016 and was directly admitted to Tsinghua University's State Key Laboratory of Intelligent Technology and Systems as a Ph.D. student, under the supervision of Professor Sun Maosong ([<A href="./papers/lzh_thesis.pdf" target="_blank">thesis</A>]). His main research interests include natural language processing and information retrieval, and he earned his Ph.D. degree from Tsinghua University in 2021.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from Northeastern University with a bachelor’s degree and from the Department of Computer Science and Technology, Tsinghua University (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>) with a master’s degree, advised by Maosong Sun (孙茂松 <a href='https://scholar.google.com/citations?user=zIgT0HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). I also collaborate with Zhiyuan Liu (刘知远 <a href='https://scholar.google.com/citations?user=dT0v5u0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), Chenyan Xiong (熊辰炎 <a href='https://scholar.google.com/citations?user=E9BaEBYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), Shuo Wang (王硕), Yukun Yan (闫宇坤), Liner Yang (杨麟儿), and Zhulong Chen (陈祖龙) from Tsinghua University, Carnegie Mellon University, Beijing Language and Culture University and Alibaba closely. We only pay more attention to build the OpenMatch toolkit (<a href="https://github.com/OpenMatch" target="_blank">OpenMatch</a>)
+
+
+My research interest includes information retrieval and large language models. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1800</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 We have one paper is accepted by WebConf 2024. 
+
 
 # 📝 Publications 
 
@@ -35,13 +38,25 @@ My research interest includes neural machine translation and computer vision. I 
     # indicates corresponding author.
   </ul>
 <ul>
+
+<h3><strong>2024</strong></h3>
+
+<li><b>Zhenghao Liu</b>, Zulong Chen, Moufeng Zhang, Shaoyang Duan, Hong Wen, Liangyue Li, Nan Li, Yu Gu, Ge Yu. Modeling User Viewing Flow Using Large Language Models for Article Recommendation. <i> The Web Conference (WebConf 2024). </i> [<A href="https://arxiv.org/abs/2311.07619" target="_blank">pdf</A>].
+
+<li>Shi Yu, Chenghao Fan, Chenyan Xiong, David Jin, Zhiyuan Liu, <b>Zhenghao Liu#</b>, Sen Mei, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu. Fusion-in-T5: Unifying Variant Signals for Simple and Effective Document Ranking with Attention Fusion. <i> The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024). </i> [<A href="https://arxiv.org/abs/2305.14685" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/FiT5" target="_blank">codes</A>].
+
+
+<li>Ruining Chong, Luming Lu, Liner Yang, Jinran Nie, <b>Zhenghao Liu</b>, Shuo Wang, Shuhan Zhou, Yaoxin Li, Erhong Yang. MCTS: A Multi-Reference Chinese Text Simplification Dataset. <i> The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024). </i> [<A href="https://arxiv.org/abs/2306.02796" target="_blank">pdf</A>][<A href="https://github.com/blcuicall/mcts/" target="_blank">codes</A>].
+
+<li>Cheng Qian, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Toolink: Linking toolkit creation and using through chain-of-solving on open-source model. <i> 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). </i> [<A href="https://arxiv.org/abs/2310.05155" target="_blank">pdf</A>][<A href="https://github.com/qiancheng0/Toolink" target="_blank">codes</A>].
+
+<li>Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, <b>Zhenghao Liu</b>, Christian S Jensen, Ge Yu. CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network. <i> IEEE Transactions on Knowledge and Data Engineering (TKDE). </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10478209" target="_blank">pdf</A>][<A href="https://github.com/qiancheng0/Toolink" target="_blank">https://github.com/yumengs-exp/CHGNN</A>].
+
 <h3><strong>2023</strong></h3>
 
 <li><b>Zhenghao Liu</b>, Chenyan Xiong, Yuanhuiyi Lv, Zhiyuan Liu, Ge Yu.  Universal Multi-Modal Retrieval: Learning A Unified Representation Space for Vision Language Retrieval. <i> The Eleventh International Conference on Learning Representations (ICLR 2023). </i> [<A href="https://openreview.net/pdf?id=PQOlkgsBsik" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/UniVL-DR" target="_blank">codes</A>].
 
-<li><b>Zhenghao Liu*#</b>, Sen Mei, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu.  Text Matching Improves Sequential Recommendation by
-Reducing Popularity Biases <i> The 32nd ACM International Conference on
-Information and Knowledge Management (CIKM 2023). </i>.
+<li><b>Zhenghao Liu*#</b>, Sen Mei, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu.  Text Matching Improves Sequential Recommendation by Reducing Popularity Biases <i> The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). </i>.
 
 
 <li>Shi Yu, <b>Zhenghao Liu</b>, Chenyan Xiong, Zhiyuan Liu. OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit. <i> The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023). </i> [<A href="https://dl.acm.org/doi/10.1145/3539618.3591813" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/OpenMatch" target="_blank">codes</A>].
@@ -114,11 +129,6 @@ Information and Knowledge Management (CIKM 2023). </i>.
   
 </ul>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *Aug, 2021 - Now*, Dept. of Computer Science and Technology (<a href="https://neuir.github.io" target="_blank">NEUIR Lab</a>), Northeastern University, Shenyang, China. 
@@ -126,10 +136,18 @@ Information and Knowledge Management (CIKM 2023). </i>.
 - *Sep, 2012 - Jul, 2016*, Dept. of Computer Science and Technology, Northeastern University, Shenyang, China. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*, "From Exact Matching to Semantic Matching: Using neural models for ranking" at Hong Kong University of Science and Technology (HKUST) [<A href="./slides/hkust_neuir.pdf" target="_blank">slides</A>].
 
-# 🧑‍🎨 Academic Service
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 🧑‍🎨 Academic Services
+- Session Chair of MLNLP 2022-2023.
+- Web Chair of CCL 2024.
+- Area Chair of ACL, COLING, ICTIR.
+- Conference Review: NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, COLING, WebConf, ECAI, AAAI, EACL.
+- Journal Review: TPAMI,TKDE,FCS,IEEE Transactions on Big Data, AI Open, TOIS.
+
+# Teaching
+- Undergraduate Course: Discrete Mathematics, Introduction to Data Science.
+- Graduate Course: Principles and Practice of Data Science.
+
 
