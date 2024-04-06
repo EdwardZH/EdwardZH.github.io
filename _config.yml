@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenghao Liu"
-description              : "The homepage of Zhenghao Liu. "
+description              : "Associate Professor"
 repository               : "EdwardZH/EdwardZH.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zhenghao Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Northeastern University"
-  location         : "Shenyang, Liaoning Province, China"
+  location         : "Shenyang, Liaoning, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4vrZRk0AAAAJ"
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/EdwardZH
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : https://dblp.org/pid/243/2880.html
+  orcid            : https://orcid.org/0000-0003-0083-3224
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
