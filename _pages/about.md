@@ -33,7 +33,8 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 
 # 💬 Invited Talks
-- *2021.06*, "From Exact Matching to Semantic Matching: Using neural models for ranking" at Hong Kong University of Science and Technology (HKUST) [<A href="./slides/hkust_neuir.pdf" target="_blank">slides</A>].
+- *2023.08*, "Semantic Matching based Retrieval for Multimodal Documents" at The 17th China Conference on Knowledge Graph and Semantic Computing (CCKS 2023) [<A href="./slides/CCKS2023.pdf" target="_blank">slides</A>].
+- *2021.04*, "From Exact Matching to Semantic Matching: Using neural models for ranking" at Hong Kong University of Science and Technology (HKUST) [<A href="./slides/hkust_neuir.pdf" target="_blank">slides</A>].
 
 
 # 🧑‍🎨 Academic Services
@@ -60,7 +61,7 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 <h3><strong>2024</strong></h3>
 
-- <b>Zhenghao Liu</b>, Zulong Chen*, Moufeng Zhang*, Shaoyang Duan, Hong Wen, Liangyue Li, Nan Li, Yu Gu, Ge Yu. Modeling User Viewing Flow Using Large Language Models for Article Recommendation. <i> The Web Conference (WebConf 2024). </i> [<A href="https://arxiv.org/abs/2311.07619" target="_blank">pdf</A>].
+- <b>Zhenghao Liu</b>, Zulong Chen\*, Moufeng Zhang\*, Shaoyang Duan, Hong Wen, Liangyue Li, Nan Li, Yu Gu, Ge Yu. Modeling User Viewing Flow Using Large Language Models for Article Recommendation. <i> The Web Conference (WebConf 2024). </i> [<A href="https://arxiv.org/abs/2311.07619" target="_blank">pdf</A>].
 
 - Shi Yu, Chenghao Fan, Chenyan Xiong, David Jin, Zhiyuan Liu, <b>Zhenghao Liu#</b>, Sen Mei, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu. Fusion-in-T5: Unifying Variant Signals for Simple and Effective Document Ranking with Attention Fusion. <i> The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024). </i> [<A href="https://arxiv.org/abs/2305.14685" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/FiT5" target="_blank">codes</A>].
 
@@ -95,13 +96,13 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 - <b>Zhenghao Liu</b>, Xiaoyuan Yi, Maosong Sun, Liner Yang, Tat-Seng Chua. Neural Quality Estimation with Multiple Hypotheses for Grammatical Error Correction. <i> The 2021 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2021). </i> [<A href="https://arxiv.org/pdf/2105.04443" target="_blank">pdf</A>][<A href="https://github.com/thunlp/VERNet" target="_blank">codes</A>].
 
 
-- <b>Zhenghao Liu</b>*, Kaitao Zhang*, Chenyan Xiong, Zhiyuan Liu, Maosong Sun. OpenMatch: An Open Source Library for Neu-IR Research. <i>The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021). </i> [<A href="https://arxiv.org/abs/2102.00166" target="_blank">pdf</A>][<A href="https://github.com/thunlp/OpenMatch" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>\*, Kaitao Zhang\*, Chenyan Xiong, Zhiyuan Liu, Maosong Sun. OpenMatch: An Open Source Library for Neu-IR Research. <i>The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021). </i> [<A href="https://arxiv.org/abs/2102.00166" target="_blank">pdf</A>][<A href="https://github.com/thunlp/OpenMatch" target="_blank">codes</A>].
 
-- Shi Yu*, <b>Zhenghao Liu</b>*, Chenyan Xiong, Tao Feng, Zhiyuan Liu. Few-Shot Conversational Dense Retrieval. <i>The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021).</i> [<A href="https://arxiv.org/abs/2105.04166" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ConvDR" target="_blank">codes</A>].
+- Shi Yu\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Tao Feng, Zhiyuan Liu. Few-Shot Conversational Dense Retrieval. <i>The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021).</i> [<A href="https://arxiv.org/abs/2105.04166" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ConvDR" target="_blank">codes</A>].
 
-- Yizhi Li*, <b>Zhenghao Liu</b>*, Chenyan Xiong, Zhiyuan Liu. More Robust Dense Retrieval with Contrastive Dual Learning. <i>The 2021 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR 2021).</i> [<A href="https://arxiv.org/pdf/2107.07773" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DANCE" target="_blank">codes</A>].
+- Yizhi Li\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Zhiyuan Liu. More Robust Dense Retrieval with Contrastive Dual Learning. <i>The 2021 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR 2021).</i> [<A href="https://arxiv.org/pdf/2107.07773" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DANCE" target="_blank">codes</A>].
 
-- Si Sun*, <b>Zhenghao Liu</b>*, Chenyan Xiong, Zhiyuan Liu and Jie Bao. Capturing Global Informativeness in Open Domain Keyphrase Extraction. <i>The CCF Conference on Natural Language Processing and Chinese Computing (NLPCC 2021).</i> [<A href="https://arxiv.org/pdf/2004.13639" target="_blank">pdf</A>][<A href="https://github.com/thunlp/BERT-KPE" target="_blank">codes</A>].
+- Si Sun\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Zhiyuan Liu and Jie Bao. Capturing Global Informativeness in Open Domain Keyphrase Extraction. <i>The CCF Conference on Natural Language Processing and Chinese Computing (NLPCC 2021).</i> [<A href="https://arxiv.org/pdf/2004.13639" target="_blank">pdf</A>][<A href="https://github.com/thunlp/BERT-KPE" target="_blank">codes</A>].
 
 
 - Si Sun, Yingzhuo Qian, <b>Zhenghao Liu</b>, Chenyan Xiong, Kaitao Zhang, Jie Bao, Zhiyuan Liu, Paul Bennett. Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision. <i>The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). </i> [<A href="https://arxiv.org/abs/2012.14862" target="_blank">pdf</A>][<A href="https://github.com/thunlp/MetaAdaptRank" target="_blank">codes</A>].
@@ -117,9 +118,9 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 - <b>Zhenghao Liu</b>, Chenyan Xiong, Zhuyun Dai, Si Sun, Maosong Sun, Zhiyuan Liu. Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. <i>Findings of the Association for Computational Linguistics: EMNLP 2020 (EMNLP 2020). </i> [<A href="https://www.aclweb.org/anthology/2020.findings-emnlp.216" target="_blank">pdf</A>][<A href="https://github.com/thunlp/KernelGAT" target="_blank">codes</A>].
 
-- Houyu Zhang*, <b>Zhenghao Liu</b>*, Chenyan Xiong, Zhiyuan Liu. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs. <i>The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020). </i> [<A href="https://www.aclweb.org/anthology/2020.acl-main.184" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ConceptFlow/" target="_blank">codes</A>].
+- Houyu Zhang\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Zhiyuan Liu. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs. <i>The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020). </i> [<A href="https://www.aclweb.org/anthology/2020.acl-main.184" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ConceptFlow/" target="_blank">codes</A>].
 
-- Chenyan Xiong*, <b>Zhenghao Liu</b>*, Si Sun*, Zhuyun Dai*, Kaitao Zhang*, Shi Yu*, Zhiyuan Liu, Hoifung Poon, Jianfeng Gao, Paul Bennett. CMT in TREC-COVID Round 2: Mitigating the Generalization Gaps from Web to Special Domain Search. [<A href="https://arxiv.org/abs/2011.01580" target="_blank">pdf</A>][<A href="https://github.com/thunlp/OpenMatch" target="_blank">codes</A>].
+- Chenyan Xiong\*, <b>Zhenghao Liu</b>\*, Si Sun\*, Zhuyun Dai\*, Kaitao Zhang\*, Shi Yu\*, Zhiyuan Liu, Hoifung Poon, Jianfeng Gao, Paul Bennett. CMT in TREC-COVID Round 2: Mitigating the Generalization Gaps from Web to Special Domain Search. [<A href="https://arxiv.org/abs/2011.01580" target="_blank">pdf</A>][<A href="https://github.com/thunlp/OpenMatch" target="_blank">codes</A>].
 
 - Xiaoyuan Yi, <b>Zhenghao Liu</b>, Wenhao Li, Maosong Sun. 2020. Text Style Transfer via Learning Style Instance Supported Latent Space. <i>The 28th International Joint Conference on Artificial Intelligence (IJCAI 2019).</i> [<A href="https://www.ijcai.org/Proceedings/2020/0526.pdf" target="_blank">pdf</A>].
 
