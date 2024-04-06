@@ -44,9 +44,6 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 - Conference Review: NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, COLING, WebConf, ECAI, AAAI, EACL.
 - Journal Review: TPAMI,TKDE,FCS,IEEE Transactions on Big Data, AI Open, TOIS.
 
-# ✏️ Teaching
-- Undergraduate Course: Discrete Mathematics, Introduction to Data Science.
-- Graduate Course: Principles and Practice of Data Science.
 
 
 # 📝 Publications 
