@@ -23,6 +23,7 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 We have five paper accepted by ACL 2024. 
 - *2024.04*: &nbsp;🎉🎉 We have one paper accepted by WebConf 2024. 
 
 
@@ -40,7 +41,7 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 # 🧑‍🎨 Academic Services
 - Session Chair of MLNLP 2022-2023.
 - Web Chair of CCL 2024.
-- Area Chair of ACL, COLING, ICTIR.
+- Area Chair of ACL ARR, COLING, ICTIR.
 - Conference Review: NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, COLING, WebConf, ECAI, AAAI, EACL.
 - Journal Review: TPAMI,TKDE,FCS,IEEE Transactions on Big Data, AI Open, TOIS.
 
@@ -58,7 +59,17 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 <h3><strong>2024</strong></h3>
 
-- <b>Zhenghao Liu</b>, Zulong Chen\*, Moufeng Zhang\*, Shaoyang Duan, Hong Wen, Liangyue Li, Nan Li, Yu Gu, Ge Yu. Modeling User Viewing Flow Using Large Language Models for Article Recommendation. <i> The Web Conference (WebConf 2024). </i> [<A href="https://arxiv.org/abs/2311.07619" target="_blank">pdf</A>].
+- Zhipeng Xu, <b>Zhenghao Liu</b>#, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong. Cleaner Pretraining Corpus Curation with Neural Web Scraping. <i> ACL 2024. </i>
+
+- Tianshuo Zhou, Sen Mei, Xinze Li, <b>Zhenghao Liu</b>#, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu. MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin. <i> ACL 2024. </i>
+
+- Hanbin Wang, <b>Zhenghao Liu</b>#, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu . INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair. <i> ACL 2024: Findings. </i>
+
+- Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, Yuzhuang Xu, <b>Zhenghao Liu</b>, Liner Yang, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun. UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset<i> ACL 2024. </i>
+
+- Zhiyu Yang, Zihan Zhou, Shuo Wang, Xin Cong, Xu Han, Yukun Yan, <b>Zhenghao Liu</b>, Zhixing Tan, Pengyuan Liu, Dong Yu, Zhiyuan Liu, Xiaodong Shi, Maosong Sun. MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization<i> ACL 2024: Findings. </i>
+
+- <b>Zhenghao Liu</b>, Zulong Chen\*, Moufeng Zhang\*, Shaoyang Duan, Hong Wen, Liangyue Li, Nan Li, Yu Gu, Ge Yu. Modeling User Viewing Flow Using Large Language Models for Article Recommendation. <i> WebConf 2024. </i> [<A href="https://arxiv.org/abs/2311.07619" target="_blank">pdf</A>].
 
 - Shi Yu, Chenghao Fan, Chenyan Xiong, David Jin, Zhiyuan Liu, <b>Zhenghao Liu#</b>. Fusion-in-T5: Unifying Variant Signals for Simple and Effective Document Ranking with Attention Fusion. <i> The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024). </i> [<A href="https://arxiv.org/abs/2305.14685" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/FiT5" target="_blank">codes</A>].
 
@@ -111,34 +122,34 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 <h3><strong>2020</strong></h3>
 
-- <b>Zhenghao Liu</b>, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. Fine-grained Fact Verification with Kernel Graph Attention Network. <i>The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020). </i> [<A href="https://www.aclweb.org/anthology/2020.acl-main.655" target="_blank">pdf</A>][<A href="https://github.com/thunlp/KernelGAT" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. Fine-grained Fact Verification with Kernel Graph Attention Network. <i>ACL 2020. </i> [<A href="https://www.aclweb.org/anthology/2020.acl-main.655" target="_blank">pdf</A>][<A href="https://github.com/thunlp/KernelGAT" target="_blank">codes</A>].
 
-- <b>Zhenghao Liu</b>, Chenyan Xiong, Zhuyun Dai, Si Sun, Maosong Sun, Zhiyuan Liu. Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. <i>Findings of the Association for Computational Linguistics: EMNLP 2020 (EMNLP 2020). </i> [<A href="https://www.aclweb.org/anthology/2020.findings-emnlp.216" target="_blank">pdf</A>][<A href="https://github.com/thunlp/KernelGAT" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Chenyan Xiong, Zhuyun Dai, Si Sun, Maosong Sun, Zhiyuan Liu. Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. <i>EMNLP 2020: Findings. </i> [<A href="https://www.aclweb.org/anthology/2020.findings-emnlp.216" target="_blank">pdf</A>][<A href="https://github.com/thunlp/KernelGAT" target="_blank">codes</A>].
 
-- Houyu Zhang\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Zhiyuan Liu. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs. <i>The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020). </i> [<A href="https://www.aclweb.org/anthology/2020.acl-main.184" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ConceptFlow/" target="_blank">codes</A>].
+- Houyu Zhang\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Zhiyuan Liu. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs. <i>ACL 2020. </i> [<A href="https://www.aclweb.org/anthology/2020.acl-main.184" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ConceptFlow/" target="_blank">codes</A>].
 
 - Chenyan Xiong\*, <b>Zhenghao Liu</b>\*, Si Sun\*, Zhuyun Dai\*, Kaitao Zhang\*, Shi Yu\*, Zhiyuan Liu, Hoifung Poon, Jianfeng Gao, Paul Bennett. CMT in TREC-COVID Round 2: Mitigating the Generalization Gaps from Web to Special Domain Search. [<A href="https://arxiv.org/abs/2011.01580" target="_blank">pdf</A>][<A href="https://github.com/thunlp/OpenMatch" target="_blank">codes</A>].
 
-- Xiaoyuan Yi, <b>Zhenghao Liu</b>, Wenhao Li, Maosong Sun. 2020. Text Style Transfer via Learning Style Instance Supported Latent Space. <i>The 28th International Joint Conference on Artificial Intelligence (IJCAI 2019).</i> [<A href="https://www.ijcai.org/Proceedings/2020/0526.pdf" target="_blank">pdf</A>].
+- Xiaoyuan Yi, <b>Zhenghao Liu</b>, Wenhao Li, Maosong Sun. 2020. Text Style Transfer via Learning Style Instance Supported Latent Space. <i>IJCAI 2019.</i> [<A href="https://www.ijcai.org/Proceedings/2020/0526.pdf" target="_blank">pdf</A>].
 
-- Kaitao Zhang, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Selective Weak Supervision for Neural Information Retrieval. <i>The Web Conference 2020 (WebConf 2020). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3366423.3380131" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ReInfoSelect" target="_blank">codes</A>].
+- Kaitao Zhang, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Selective Weak Supervision for Neural Information Retrieval. <i>WebConf 2020. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3366423.3380131" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ReInfoSelect" target="_blank">codes</A>].
 
-- Deming Ye, Yankai Lin, Jiaju Du, <b>Zhenghao Liu</b>, Peng Li, Maosong Sun, Zhiyuan Liu. Coreferential Reasoning Learning for Language Representation. <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020). </i> [<A href="https://www.aclweb.org/anthology/2020.emnlp-main.582/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/CorefBERT" target="_blank">codes</A>].
+- Deming Ye, Yankai Lin, Jiaju Du, <b>Zhenghao Liu</b>, Peng Li, Maosong Sun, Zhiyuan Liu. Coreferential Reasoning Learning for Language Representation. <i>EMNLP 2020. </i> [<A href="https://www.aclweb.org/anthology/2020.emnlp-main.582/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/CorefBERT" target="_blank">codes</A>].
 
 
 
 
 <h3><strong>2019</strong></h3>
 
-- <b>Zhenghao Liu</b>, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. Explore Entity Embedding Effectiveness in Entity Retrieval. <i>The 18th China National Conference on Computational Linguistics (CCL 2019).</i>[<A href="https://link.springer.com/chapter/10.1007/978-3-030-32381-3_9" target="_blank">pdf</A>][<A href="https://github.com/thunlp/EmbeddingEntityRetrieval" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. Explore Entity Embedding Effectiveness in Entity Retrieval. <i>CCL 2019.</i>[<A href="https://link.springer.com/chapter/10.1007/978-3-030-32381-3_9" target="_blank">pdf</A>][<A href="https://github.com/thunlp/EmbeddingEntityRetrieval" target="_blank">codes</A>].
 
-- Yifan Qiao, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Understanding the Behaviors of BERT in Ranking. <i>Technical report</i>[<A href="https://arxiv.org/abs/1904.07531" target="_blank">pdf</A>].
+- Yifan Qiao, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Understanding the Behaviors of BERT in Ranking. [<A href="https://arxiv.org/abs/1904.07531" target="_blank">pdf</A>].
 
-- Yuan Yao, Deming Ye, Peng Li, Xu Han, Yankai Lin, <b>Zhenghao Liu</b>, Zhiyuan Liu, Lixin Huang, Jie Zhou, Maosong Sun. DocRED: A Large-Scale Document-Level Relation Extraction Dataset. <i>The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019).</i>[<A href="https://arxiv.org/abs/1906.06127" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DocRED" target="_blank">codes</A>].
+- Yuan Yao, Deming Ye, Peng Li, Xu Han, Yankai Lin, <b>Zhenghao Liu</b>, Zhiyuan Liu, Lixin Huang, Jie Zhou, Maosong Sun. DocRED: A Large-Scale Document-Level Relation Extraction Dataset. <i>ACL 2019.</i>[<A href="https://arxiv.org/abs/1906.06127" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DocRED" target="_blank">codes</A>].
 
 
 <h3><strong>2018</strong></h3>
-- <b>Zhenghao Liu</b>, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval. <i>The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018).</i>[<A href="https://www.aclweb.org/anthology/P18-1223" target="_blank">pdf</A>][<A href="https://github.com/thunlp/EntityDuetNeuralRanking" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval. <i>ACL 2018.</i>[<A href="https://www.aclweb.org/anthology/P18-1223" target="_blank">pdf</A>][<A href="https://github.com/thunlp/EntityDuetNeuralRanking" target="_blank">codes</A>].
 
 <h3><strong>2017</strong></h3>
 - Liner Yang, Maosong Sun, Jiacheng Zhang, <b>Zhenghao Liu</b>, Huanbo Luan, Yang Liu. Neural Parse Combination. <i> Journal of Computer Science and Technology, 2017.</i>[<A href="https://link.springer.com/article/10.1007/s11390-017-1756-5" target="_blank">pdf</A>].
