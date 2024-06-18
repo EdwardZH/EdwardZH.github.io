@@ -23,7 +23,7 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 We have five paper accepted by ACL 2024. 
+- *2024.05*: &nbsp;🎉🎉 We have five papers accepted by ACL 2024. 
 - *2024.04*: &nbsp;🎉🎉 We have one paper accepted by WebConf 2024. 
 
 
@@ -59,15 +59,15 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 <h3><strong>2024</strong></h3>
 
-- Zhipeng Xu, <b>Zhenghao Liu</b>#, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong. Cleaner Pretraining Corpus Curation with Neural Web Scraping. <i> ACL 2024. </i>
+- Zhipeng Xu, <b>Zhenghao Liu</b>#, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong. Cleaner Pretraining Corpus Curation with Neural Web Scraping. <i> ACL 2024. </i> [<A href="https://arxiv.org/abs/2402.14652" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/NeuScraper" target="_blank">codes</A>].
 
-- Tianshuo Zhou, Sen Mei, Xinze Li, <b>Zhenghao Liu</b>#, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu. MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin. <i> ACL 2024. </i>
+- Tianshuo Zhou, Sen Mei, Xinze Li, <b>Zhenghao Liu</b>#, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu. MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin. <i> ACL 2024. </i> [<A href="https://arxiv.org/abs/2310.14037" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/MARVEL" target="_blank">codes</A>].
 
-- Hanbin Wang, <b>Zhenghao Liu</b>#, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu . INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair. <i> ACL 2024: Findings. </i>
+- Hanbin Wang, <b>Zhenghao Liu</b>#, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu . INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair. <i> ACL 2024: Findings. </i> [<A href="https://arxiv.org/abs/2311.09868" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/INTERVENOR" target="_blank">codes</A>].
 
-- Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, Yuzhuang Xu, <b>Zhenghao Liu</b>, Liner Yang, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun. UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset<i> ACL 2024. </i>
+- Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, Yuzhuang Xu, <b>Zhenghao Liu</b>, Liner Yang, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun. UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset. <i> ACL 2024. </i> [<A href="https://arxiv.org/abs/2402.04588" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/UltraLink" target="_blank">codes</A>].
 
-- Zhiyu Yang, Zihan Zhou, Shuo Wang, Xin Cong, Xu Han, Yukun Yan, <b>Zhenghao Liu</b>, Zhixing Tan, Pengyuan Liu, Dong Yu, Zhiyuan Liu, Xiaodong Shi, Maosong Sun. MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization<i> ACL 2024: Findings. </i>
+- Zhiyu Yang, Zihan Zhou, Shuo Wang, Xin Cong, Xu Han, Yukun Yan, <b>Zhenghao Liu</b>, Zhixing Tan, Pengyuan Liu, Dong Yu, Zhiyuan Liu, Xiaodong Shi, Maosong Sun. MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization. <i> ACL 2024: Findings. </i> [<A href="https://arxiv.org/abs/2402.11453" target="_blank">pdf</A>][<A href="https://github.com/thunlp/MatPlotAgent" target="_blank">codes</A>].
 
 - <b>Zhenghao Liu</b>, Zulong Chen\*, Moufeng Zhang\*, Shaoyang Duan, Hong Wen, Liangyue Li, Nan Li, Yu Gu, Ge Yu. Modeling User Viewing Flow Using Large Language Models for Article Recommendation. <i> WebConf 2024. </i> [<A href="https://arxiv.org/abs/2311.07619" target="_blank">pdf</A>].
 
