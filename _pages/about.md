@@ -73,6 +73,8 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - <b>Zhenghao Liu</b>, Zulong Chen\*, Moufeng Zhang\*, Shaoyang Duan, Hong Wen, Liangyue Li, Nan Li, Yu Gu, Ge Yu. Modeling User Viewing Flow Using Large Language Models for Article Recommendation. <i> WebConf 2024. </i> [<A href="https://arxiv.org/abs/2311.07619" target="_blank">pdf</A>].
 
+- Na Guo, Yaqi Wang, Wenli Sun, Yu Gu, Jianzhong Qi, <b>Zhenghao Liu</b>, Xiufeng Xia, Ge Yu. Chameleon: Towards Update-Efficient Learned Indexing for Locally Skewed Data. <i> ICDE 2024. </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10597777/" target="_blank">pdf</A>].
+
 - Cheng Gao, Chaojun Xiao, <b>Zhenghao Liu</b>, Huimin Chen, Zhiyuan Liu, Maosong Sun. Enhancing Legal Case Retrieval via Scaling High-quality Synthetic Query-Candidate Pairs. <i> EMNLP 2024. </i> [<A href="https://aclanthology.org/2024.emnlp-main.402.pdf" target="_blank">pdf</A>][<A href="https://github.com/thunlp/LEAD" target="_blank">codes</A>].
 
 - Shi Yu, Chenghao Fan, Chenyan Xiong, David Jin, Zhiyuan Liu, <b>Zhenghao Liu#</b>. Fusion-in-T5: Unifying Variant Signals for Simple and Effective Document Ranking with Attention Fusion. <i> COLING 2024. </i> [<A href="https://arxiv.org/abs/2305.14685" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/FiT5" target="_blank">codes</A>].
