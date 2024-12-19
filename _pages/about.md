@@ -84,18 +84,18 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - Cheng Qian, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Toolink: Linking toolkit creation and using through chain-of-solving on open-source model. <i> NAACL 2024. </i> [<A href="https://arxiv.org/abs/2310.05155" target="_blank">pdf</A>][<A href="https://github.com/qiancheng0/Toolink" target="_blank">codes</A>].
 
-- Xinze Li, Hanbin Wang, <b>Zhenghao Liu</b>, Shi Yu, Shuo Wang, Yukun Yan, Yukai Fu, Yu Gu, Ge Yu. Building A Coding Assistant via the Retrieval-Augmented Language Model. <i> ACM Transactions on Information Systems (TOIS). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3695868" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CONAN" target="_blank">code</A>].
+- Xinze Li, Hanbin Wang, <b>Zhenghao Liu</b>#, Shi Yu, Shuo Wang, Yukun Yan, Yukai Fu, Yu Gu, Ge Yu. Building A Coding Assistant via the Retrieval-Augmented Language Model. <i> ACM Transactions on Information Systems (TOIS). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3695868" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CONAN" target="_blank">code</A>].
 
 - Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, <b>Zhenghao Liu</b>, Christian S Jensen, Ge Yu. CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network. <i> IEEE Transactions on Knowledge and Data Engineering (TKDE). </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10478209" target="_blank">pdf</A>][<A href="https://github.com/yumengs-exp/CHGNN" target="_blank">code</A>].
 
-- Yuqing Lan, <b>Zhenghao Liu</b>#, Yu Gu, Xiaoyuan Yi, Xiaohua Li, Liner Yang, Ge Yu. Multi-Evidence based Fact Verification via A Confidential Graph Neural Network. <i> IEEE Transactions on Big Data (TBD). </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10535226" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CO-GAT" target="_blank">code</A>].
+- Yuqing Lan, <b>Zhenghao Liu</b>#, Yu Gu#, Xiaoyuan Yi, Xiaohua Li, Liner Yang, Ge Yu. Multi-Evidence based Fact Verification via A Confidential Graph Neural Network. <i> IEEE Transactions on Big Data (TBD). </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10535226" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CO-GAT" target="_blank">code</A>].
 
 
 <h3><strong>2023</strong></h3>
 
 - <b>Zhenghao Liu</b>, Chenyan Xiong, Yuanhuiyi Lv, Zhiyuan Liu, Ge Yu. Universal Multi-Modal Retrieval: Learning A Unified Representation Space for Vision Language Retrieval. <i> The Eleventh International Conference on Learning Representations (ICLR 2023). </i> [<A href="https://openreview.net/pdf?id=PQOlkgsBsik" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/UniVL-DR" target="_blank">codes</A>].
 
-- <b>Zhenghao Liu\*#</b>, Sen Mei, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu. Text Matching Improves Sequential Recommendation by Reducing Popularity Biases <i> The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3583780.3615077" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/TASTE" target="_blank">codes</A>].
+- <b>Zhenghao Liu\*#</b>, Sen Mei\*, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu. Text Matching Improves Sequential Recommendation by Reducing Popularity Biases <i> The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3583780.3615077" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/TASTE" target="_blank">codes</A>].
 
 
 - Shi Yu, <b>Zhenghao Liu</b>, Chenyan Xiong, Zhiyuan Liu. OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit. <i> The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023). </i> [<A href="https://dl.acm.org/doi/10.1145/3539618.3591813" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/OpenMatch" target="_blank">codes</A>].
