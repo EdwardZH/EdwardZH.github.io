@@ -82,7 +82,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - Cheng Qian, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Toolink: Linking toolkit creation and using through chain-of-solving on open-source model. <i> NAACL 2024. </i> [<A href="https://arxiv.org/abs/2310.05155" target="_blank">pdf</A>][<A href="https://github.com/qiancheng0/Toolink" target="_blank">codes</A>].
 
-- Xinze Li, Hanbin Wang, <b>Zhenghao Liu</b>, Shi Yu, Shuo Wang, Yukun Yan, Yukai Fu, Yu Gu, Ge Yu. Building A Coding Assistant via the Retrieval-Augmented Language Model. <i> IEEE Transactions on Knowledge and Data Engineering (TKDE). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3695868" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CONAN" target="_blank">code</A>].
+- Xinze Li, Hanbin Wang, <b>Zhenghao Liu</b>, Shi Yu, Shuo Wang, Yukun Yan, Yukai Fu, Yu Gu, Ge Yu. Building A Coding Assistant via the Retrieval-Augmented Language Model. <i> ACM Transactions on Information Systems (TOIS). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3695868" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CONAN" target="_blank">code</A>].
 
 - Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, <b>Zhenghao Liu</b>, Christian S Jensen, Ge Yu. CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network. <i> IEEE Transactions on Knowledge and Data Engineering (TKDE). </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10478209" target="_blank">pdf</A>][<A href="https://github.com/yumengs-exp/CHGNN" target="_blank">code</A>].
 
