@@ -19,23 +19,24 @@ redirect_from:
 
 Zhenghao Liu (刘正皓), Associate Professor of Northeastern University, is a visiting researcher at Tsinghua University's Natural Language Processing Laboratory (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP</a>). I obtained my Bachelor's degree in Engineering from Northeastern University in 2016 and was directly admitted to Tsinghua University's State Key Laboratory of Intelligent Technology and Systems as a Ph.D. student, under the supervision of Professor Sun Maosong. My main research interests include natural language processing and information retrieval, and I earned my Ph.D. degree from Tsinghua University in 2021 (<A href="./slides/lzh_thesis.pdf" target="_blank">thesis</A>).
 
-I graduated from Northeastern University with a bachelor’s degree and from the Department of Computer Science and Technology, Tsinghua University (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>) with a Ph.D. degree, advised by Maosong Sun (<a href="https://scholar.google.com/citations?user=zIgT0HMAAAAJ" target="_blank">孙茂松</a>). Now, I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAAAJ" target="_blank">于戈</a>) and Yu Gu (<a href="https://scholar.google.com/citations?user=IDYbTZwAAAAJ" target="_blank">谷峪</a>). I also collaborate with Zhiyuan Liu (<a href="https://scholar.google.com/citations?user=dT0v5u0AAAAJ" target="_blank">刘知远</a>), Chenyan Xiong (<a href="https://scholar.google.com/citations?user=E9BaEBYAAAAJ" target="_blank">熊辰炎</a>), Shuo Wang (<a href="https://scholar.google.com/citations?user=5vm5yAMAAAAJ" target="_blank">王硕</a>), Yukun Yan (<a href="https://scholar.google.com/citations?user=B88nSvIAAAAJ" target="_blank">闫宇坤</a>), Shi Yu (<a href="https://scholar.google.com/citations?user=xcMVPTgAAAAJ" target="_blank">于是</a>), Liner Yang (<a href="https://scholar.google.com/citations?user=mupyk1sAAAAJ" target="_blank">杨麟儿</a>), and Zulong Chen (<a href="https://scholar.google.com/citations?user=nUVmSqUAAAAJ" target="_blank">陈祖龙</a>) from Tsinghua University, Carnegie Mellon University, Beijing Language and Culture University, and Alibaba closely. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'>google scholar citations <strong><span id='total_cit'>1800</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). We now pay more attention to build the <a href="https://github.com/OpenMatch" target="_blank">OpenMatch</a> toolkit and focus on the research of LLM and data twinning.
-
+I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAAAJ" target="_blank">于戈</a>) and Yu Gu (<a href="https://scholar.google.com/citations?user=IDYbTZwAAAAJ" target="_blank">谷峪</a>). I also collaborate with Zhiyuan Liu (<a href="https://scholar.google.com/citations?user=dT0v5u0AAAAJ" target="_blank">刘知远</a>), Chenyan Xiong (<a href="https://scholar.google.com/citations?user=E9BaEBYAAAAJ" target="_blank">熊辰炎</a>), Shuo Wang (<a href="https://scholar.google.com/citations?user=5vm5yAMAAAAJ" target="_blank">王硕</a>), Yukun Yan (<a href="https://scholar.google.com/citations?user=B88nSvIAAAAJ" target="_blank">闫宇坤</a>), Shi Yu (<a href="https://scholar.google.com/citations?user=xcMVPTgAAAAJ" target="_blank">于是</a>), Liner Yang (<a href="https://scholar.google.com/citations?user=mupyk1sAAAAJ" target="_blank">杨麟儿</a>), and Zulong Chen (<a href="https://scholar.google.com/citations?user=nUVmSqUAAAAJ" target="_blank">陈祖龙</a>) from Tsinghua University, Carnegie Mellon University, Beijing Language and Culture University, and Alibaba closely. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 We are excited to announce the release of the MiniCPM-RAG LoRA Toolkit, which has already garnered over 32,000 downloads!
 - *2024.05*: &nbsp;🎉🎉 We have five papers accepted by ACL 2024. 
 - *2024.04*: &nbsp;🎉🎉 We have one paper accepted by WebConf 2024. 
 
 
 # 📖 Educations
 - *Aug, 2021 - Now*, Dept. of Computer Science and Technology (<a href="https://neuir.github.io" target="_blank">NEUIR Lab</a>), Northeastern University, Shenyang, China. 
-- *Aug, 2016 - Jun, 2021*, Dept. of Computer Science and Technology (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>), Tsinghua University, Beijing, China. 
+- *Aug, 2016 - Jun, 2021*, Dept. of Computer Science and Technology (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>), Tsinghua University, Beijing, China. Supervisor: Maosong Sun (<a href="https://scholar.google.com/citations?user=zIgT0HMAAAAJ" target="_blank">孙茂松</a>).
 - *Sep, 2012 - Jul, 2016*, Dept. of Computer Science and Technology, Northeastern University, Shenyang, China. 
 
 
 # 💬 Invited Talks
-- *2023.08*, "Semantic Matching based Retrieval for Multimodal Documents" at The 17th China Conference on Knowledge Graph and Semantic Computing (CCKS 2023) [<A href="./slides/CCKS2023.pdf" target="_blank">slides</A>].
-- *2021.04*, "From Exact Matching to Semantic Matching: Using neural models for ranking" at Hong Kong University of Science and Technology (HKUST) [<A href="./slides/hkust_neuir.pdf" target="_blank">slides</A>].
+- *2024.08*, "Introduction to Large Language Models". THUNLP-OpenBMB Summer Course [<A href="https://nlp.csai.tsinghua.edu.cn/summer_class/">link</A>].
+- *2023.08*, "Semantic Matching based Retrieval for Multimodal Documents". The 17th China Conference on Knowledge Graph and Semantic Computing (CCKS 2023) [<A href="./slides/CCKS2023.pdf" target="_blank">slides</A>].
+- *2021.04*, "From Exact Matching to Semantic Matching: Using neural models for ranking". Hong Kong University of Science and Technology (HKUST) [<A href="./slides/hkust_neuir.pdf" target="_blank">slides</A>].
 
 
 # 🧑‍🎨 Academic Services
@@ -71,12 +72,16 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 - <b>Zhenghao Liu</b>, Zulong Chen\*, Moufeng Zhang\*, Shaoyang Duan, Hong Wen, Liangyue Li, Nan Li, Yu Gu, Ge Yu. Modeling User Viewing Flow Using Large Language Models for Article Recommendation. <i> WebConf 2024. </i> [<A href="https://arxiv.org/abs/2311.07619" target="_blank">pdf</A>].
 
-- Shi Yu, Chenghao Fan, Chenyan Xiong, David Jin, Zhiyuan Liu, <b>Zhenghao Liu#</b>. Fusion-in-T5: Unifying Variant Signals for Simple and Effective Document Ranking with Attention Fusion. <i> The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024). </i> [<A href="https://arxiv.org/abs/2305.14685" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/FiT5" target="_blank">codes</A>].
+- Cheng Gao, Chaojun Xiao, <b>Zhenghao Liu</b>, Huimin Chen, Zhiyuan Liu, Maosong Sun. Enhancing Legal Case Retrieval via Scaling High-quality Synthetic Query-Candidate Pairs. <i> EMNLP 2024. </i> [<A href="https://aclanthology.org/2024.emnlp-main.402.pdf" target="_blank">pdf</A>][<A href="https://github.com/thunlp/LEAD" target="_blank">codes</A>].
+
+- Shi Yu, Chenghao Fan, Chenyan Xiong, David Jin, Zhiyuan Liu, <b>Zhenghao Liu#</b>. Fusion-in-T5: Unifying Variant Signals for Simple and Effective Document Ranking with Attention Fusion. <i> COLING 2024. </i> [<A href="https://arxiv.org/abs/2305.14685" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/FiT5" target="_blank">codes</A>].
 
 
-- Ruining Chong, Luming Lu, Liner Yang, Jinran Nie, <b>Zhenghao Liu</b>, Shuo Wang, Shuhan Zhou, Yaoxin Li, Erhong Yang. MCTS: A Multi-Reference Chinese Text Simplification Dataset. <i> The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING 2024). </i> [<A href="https://arxiv.org/abs/2306.02796" target="_blank">pdf</A>][<A href="https://github.com/blcuicall/mcts/" target="_blank">codes</A>].
+- Ruining Chong, Luming Lu, Liner Yang, Jinran Nie, <b>Zhenghao Liu</b>, Shuo Wang, Shuhan Zhou, Yaoxin Li, Erhong Yang. MCTS: A Multi-Reference Chinese Text Simplification Dataset. <i> COLING 2024. </i> [<A href="https://arxiv.org/abs/2306.02796" target="_blank">pdf</A>][<A href="https://github.com/blcuicall/mcts/" target="_blank">codes</A>].
 
-- Cheng Qian, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Toolink: Linking toolkit creation and using through chain-of-solving on open-source model. <i> 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). </i> [<A href="https://arxiv.org/abs/2310.05155" target="_blank">pdf</A>][<A href="https://github.com/qiancheng0/Toolink" target="_blank">codes</A>].
+- Cheng Qian, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Toolink: Linking toolkit creation and using through chain-of-solving on open-source model. <i> NAACL 2024. </i> [<A href="https://arxiv.org/abs/2310.05155" target="_blank">pdf</A>][<A href="https://github.com/qiancheng0/Toolink" target="_blank">codes</A>].
+
+- Xinze Li, Hanbin Wang, <b>Zhenghao Liu</b>, Shi Yu, Shuo Wang, Yukun Yan, Yukai Fu, Yu Gu, Ge Yu. Building A Coding Assistant via the Retrieval-Augmented Language Model. <i> IEEE Transactions on Knowledge and Data Engineering (TKDE). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3695868" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CONAN" target="_blank">code</A>].
 
 - Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, <b>Zhenghao Liu</b>, Christian S Jensen, Ge Yu. CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network. <i> IEEE Transactions on Knowledge and Data Engineering (TKDE). </i> [<A href="https://ieeexplore.ieee.org/abstract/document/10478209" target="_blank">pdf</A>][<A href="https://github.com/yumengs-exp/CHGNN" target="_blank">code</A>].
 
@@ -104,22 +109,22 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 <h3><strong>2021</strong></h3>
 
-- <b>Zhenghao Liu</b>, Xiaoyuan Yi, Maosong Sun, Liner Yang, Tat-Seng Chua. Neural Quality Estimation with Multiple Hypotheses for Grammatical Error Correction. <i> The 2021 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2021). </i> [<A href="https://arxiv.org/pdf/2105.04443" target="_blank">pdf</A>][<A href="https://github.com/thunlp/VERNet" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Xiaoyuan Yi, Maosong Sun, Liner Yang, Tat-Seng Chua. Neural Quality Estimation with Multiple Hypotheses for Grammatical Error Correction. <i> NAACL 2021. </i> [<A href="https://arxiv.org/pdf/2105.04443" target="_blank">pdf</A>][<A href="https://github.com/thunlp/VERNet" target="_blank">codes</A>].
 
 
-- <b>Zhenghao Liu</b>\*, Kaitao Zhang\*, Chenyan Xiong, Zhiyuan Liu, Maosong Sun. OpenMatch: An Open Source Library for Neu-IR Research. <i>The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021). </i> [<A href="https://arxiv.org/abs/2102.00166" target="_blank">pdf</A>][<A href="https://github.com/thunlp/OpenMatch" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>\*, Kaitao Zhang\*, Chenyan Xiong, Zhiyuan Liu, Maosong Sun. OpenMatch: An Open Source Library for Neu-IR Research. <i>SIGIR 2021. </i> [<A href="https://arxiv.org/abs/2102.00166" target="_blank">pdf</A>][<A href="https://github.com/thunlp/OpenMatch" target="_blank">codes</A>].
 
-- Shi Yu\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Tao Feng, Zhiyuan Liu. Few-Shot Conversational Dense Retrieval. <i>The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021).</i> [<A href="https://arxiv.org/abs/2105.04166" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ConvDR" target="_blank">codes</A>].
+- Shi Yu\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Tao Feng, Zhiyuan Liu. Few-Shot Conversational Dense Retrieval. <i>SIGIR 2021.</i> [<A href="https://arxiv.org/abs/2105.04166" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ConvDR" target="_blank">codes</A>].
 
 - Yizhi Li\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Zhiyuan Liu. More Robust Dense Retrieval with Contrastive Dual Learning. <i>The 2021 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR 2021).</i> [<A href="https://arxiv.org/pdf/2107.07773" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DANCE" target="_blank">codes</A>].
 
 - Si Sun\*, <b>Zhenghao Liu</b>\*, Chenyan Xiong, Zhiyuan Liu and Jie Bao. Capturing Global Informativeness in Open Domain Keyphrase Extraction. <i>The CCF Conference on Natural Language Processing and Chinese Computing (NLPCC 2021).</i> [<A href="https://arxiv.org/pdf/2004.13639" target="_blank">pdf</A>][<A href="https://github.com/thunlp/BERT-KPE" target="_blank">codes</A>].
 
 
-- Si Sun, Yingzhuo Qian, <b>Zhenghao Liu</b>, Chenyan Xiong, Kaitao Zhang, Jie Bao, Zhiyuan Liu, Paul Bennett. Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision. <i>The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). </i> [<A href="https://arxiv.org/abs/2012.14862" target="_blank">pdf</A>][<A href="https://github.com/thunlp/MetaAdaptRank" target="_blank">codes</A>].
+- Si Sun, Yingzhuo Qian, <b>Zhenghao Liu</b>, Chenyan Xiong, Kaitao Zhang, Jie Bao, Zhiyuan Liu, Paul Bennett. Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision. <i>ACL 2021. </i> [<A href="https://arxiv.org/abs/2012.14862" target="_blank">pdf</A>][<A href="https://github.com/thunlp/MetaAdaptRank" target="_blank">codes</A>].
 
 - Huiyuan Xie, <b>Zhenghao Liu</b>, Chenyan Xiong, Zhiyuan Liu and Ann Copestake
-. TIAGE: A Benchmark for Topic-Shift Aware Dialog Modeling. <i>Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021). </i> [<A href="https://arxiv.org/pdf/2109.04562" target="_blank">pdf</A>][<A href="https://github.com/HuiyuanXie/tiage" target="_blank">codes</A>]
+. TIAGE: A Benchmark for Topic-Shift Aware Dialog Modeling. <i>EMNLP 2021: Findings. </i> [<A href="https://arxiv.org/pdf/2109.04562" target="_blank">pdf</A>][<A href="https://github.com/HuiyuanXie/tiage" target="_blank">codes</A>]
 
 
 
@@ -144,7 +149,7 @@ I graduated from Northeastern University with a bachelor’s degree and from the
 
 <h3><strong>2019</strong></h3>
 
-- <b>Zhenghao Liu</b>, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. Explore Entity Embedding Effectiveness in Entity Retrieval. <i>CCL 2019.</i>[<A href="https://link.springer.com/chapter/10.1007/978-3-030-32381-3_9" target="_blank">pdf</A>][<A href="https://github.com/thunlp/EmbeddingEntityRetrieval" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. Explore Entity Embedding Effectiveness in Entity Retrieval. <i> Proceedings of Chinese National Conference on Computational Linguistics (CCL 2019).</i>[<A href="https://link.springer.com/chapter/10.1007/978-3-030-32381-3_9" target="_blank">pdf</A>][<A href="https://github.com/thunlp/EmbeddingEntityRetrieval" target="_blank">codes</A>].
 
 - Yifan Qiao, Chenyan Xiong, <b>Zhenghao Liu</b>, Zhiyuan Liu. Understanding the Behaviors of BERT in Ranking. [<A href="https://arxiv.org/abs/1904.07531" target="_blank">pdf</A>].
 
