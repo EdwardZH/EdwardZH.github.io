@@ -43,9 +43,10 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 # 🧑‍🎨 Academic Services
 - Session Chair of ACL 2024, MLNLP 2022-2024.
 - Web Chair of CCL 2024.
+- Publication Chair of ACL 2025.
 - Poster Chair of WISA 2024.
 - Area Chair of ACL ARR, COLING, ICTIR.
-- Conference Review: NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, COLING, WebConf, ECAI, AAAI, EACL.
+- Conference Review: NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, COLING, WebConf, ECAI, AAAI, EACL, COLM.
 - Journal Review: TPAMI, TKDE, FCS, IEEE Transactions on Big Data, AI Open, TOIS, Science China.
 
 
