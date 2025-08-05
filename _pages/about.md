@@ -22,10 +22,9 @@ Zhenghao Liu (刘正皓), Associate Professor of Northeastern University, is a v
 I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAAAJ" target="_blank">于戈</a>) and Yu Gu (<a href="https://scholar.google.com/citations?user=IDYbTZwAAAAJ" target="_blank">谷峪</a>). I also collaborate with Zhiyuan Liu (<a href="https://scholar.google.com/citations?user=dT0v5u0AAAAJ" target="_blank">刘知远</a>), Chenyan Xiong (<a href="https://scholar.google.com/citations?user=E9BaEBYAAAAJ" target="_blank">熊辰炎</a>), Shuo Wang (<a href="https://scholar.google.com/citations?user=5vm5yAMAAAAJ" target="_blank">王硕</a>), Yukun Yan (<a href="https://scholar.google.com/citations?user=B88nSvIAAAAJ" target="_blank">闫宇坤</a>), Shi Yu (<a href="https://scholar.google.com/citations?user=xcMVPTgAAAAJ" target="_blank">于是</a>), Liner Yang (<a href="https://scholar.google.com/citations?user=mupyk1sAAAAJ" target="_blank">杨麟儿</a>), and Zulong Chen (<a href="https://scholar.google.com/citations?user=nUVmSqUAAAAJ" target="_blank">陈祖龙</a>) from Tsinghua University, Carnegie Mellon University, Beijing Language and Culture University, and Alibaba closely. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 We have three papers accepted by ACL 2025. 
 - *2025.01*: &nbsp;🎉🎉 We are excited to announce the release of the <a href="https://github.com/OpenBMB/UltraRAG" target="_blank">UltraRAG</a> Toolkit!
 - *2024.09*: &nbsp;🎉🎉 We are excited to announce the release of the MiniCPM-RAG LoRA Toolkit, which has already garnered over 320,000 downloads!
-- *2024.05*: &nbsp;🎉🎉 We have five papers accepted by ACL 2024. 
-- *2024.04*: &nbsp;🎉🎉 We have one paper accepted by WebConf 2024. 
 
 
 # 📖 Educations
@@ -43,7 +42,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 # 🧑‍🎨 Academic Services
 - Session Chair of ACL 2024, MLNLP 2022-2024.
 - Web Chair of CCL 2024.
-- Publication Chair of ACL 2025.
+- Publication Chair of ACL 2025, CCL 2025.
 - Poster Chair of WISA 2024.
 - Area Chair of ACL ARR, COLING, ICTIR.
 - Conference Review: NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, COLING, WebConf, ECAI, AAAI, EACL, COLM.
@@ -61,13 +60,24 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
  </ul>
 
 <h3><strong>2025</strong></h3>
+
+- Mingyan Wu, <b>Zhenghao Liu</b>#, Yukun Yan, Xinze Li, Shi Yu, Zheni Zeng, Yu Gu, Ge Yu. RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts. <i> ACL 2025. </i> [<A href="https://aclanthology.org/2025.acl-long.629.pdf" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/RankCoT" target="_blank">codes</A>].
+
+- Shuliang Liu, Xinze Li, <b>Zhenghao Liu</b>#, Yukun Yan, Cheng Yang, Zheni Zeng, Zhiyuan Liu, Maosong Sun, Ge Yu. Judge as A Judge: Improving the Evaluation of Retrieval-Augmented Generation through the Judge-Consistency of Large Language Models. <i> ACL 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-acl.301.pdf" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/ConsJudge" target="_blank">codes</A>].
+
+- Kunlun Zhu, Yifan Luo, Dingling Xu, Yukun Yan, <b>Zhenghao Liu</b>, Shi Yu, Ruobing Wang, Shuo Wang, Yishan Li, Nan Zhang, Xu Han, Zhiyuan Liu, Maosong Sun. RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework. <i> ACL 2025. </i> [<A href="https://aclanthology.org/2025.acl-long.418.pdf" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/RAGEval" target="_blank">codes</A>].
+
 - Xinze Li, Sen Mei, <b>Zhenghao Liu</b>#, Yukun Yan#, Shuo Wang, Shi Yu, Zheni Zeng, Hao Chen, Ge Yu, Zhiyuan Liu, Maosong Sun, Chenyan Xiong. RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards. <i> ICLR 2025. </i> [<A href="https://arxiv.org/abs/2410.13509" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/RAG-DDR" target="_blank">codes</A>].
 
 - Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, <b>Zhenghao Liu</b>, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents. <i> ICLR 2025. </i> [<A href="https://arxiv.org/pdf/2410.10594" target="_blank">pdf</A>][<A href="https://github.com/openbmb/visrag" target="_blank">codes</A>].
 
 - Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin, <b>Zhenghao Liu</b>, Bowen Zhou, Hao Peng, Zhiyuan Liu, Maosong Sun. Advancing llm reasoning generalists with preference trees. <i> ICLR 2025. </i> [<A href="https://arxiv.org/pdf/2404.02078" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/Eurus" target="_blank">codes</A>].
 
+- <b>Zhenghao Liu</b>, Xingsheng Zhu, Tianshuo Zhou, Xinyi Zhang, Xiaoyuan Yi, Yukun Yan, Ge Yu, Maosong Sun. Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts. <i> MM 2025. </i> [<A href="https://arxiv.org/abs/2502.17297" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/M2RAG" target="_blank">codes</A>].
+
 - Weiqing Yang, Hanbin Wang, <b>Zhenghao Liu</b>#, Xinze Li, Yukun Yan, Shuo Wang, Yu Gu, Minghe Yu, Zhiyuan Liu, Ge Yu. COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis. <i> NAACL 2025: Findings. </i> [<A href="hhttps://arxiv.org/abs/2408.05006" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/COAST" target="_blank">codes</A>].
+
+
 
 
 <h3><strong>2024</strong></h3>
@@ -104,22 +114,22 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 <h3><strong>2023</strong></h3>
 
-- <b>Zhenghao Liu</b>, Chenyan Xiong, Yuanhuiyi Lv, Zhiyuan Liu, Ge Yu. Universal Multi-Modal Retrieval: Learning A Unified Representation Space for Vision Language Retrieval. <i> The Eleventh International Conference on Learning Representations (ICLR 2023). </i> [<A href="https://openreview.net/pdf?id=PQOlkgsBsik" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/UniVL-DR" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Chenyan Xiong, Yuanhuiyi Lv, Zhiyuan Liu, Ge Yu. Universal Multi-Modal Retrieval: Learning A Unified Representation Space for Vision Language Retrieval. <i> ICLR 2023. </i> [<A href="https://openreview.net/pdf?id=PQOlkgsBsik" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/UniVL-DR" target="_blank">codes</A>].
 
-- <b>Zhenghao Liu\*#</b>, Sen Mei\*, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu. Text Matching Improves Sequential Recommendation by Reducing Popularity Biases <i> The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3583780.3615077" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/TASTE" target="_blank">codes</A>].
+- <b>Zhenghao Liu\*#</b>, Sen Mei\*, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, Ge Yu. Text Matching Improves Sequential Recommendation by Reducing Popularity Biases. <i> CIKM 2023. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3583780.3615077" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/TASTE" target="_blank">codes</A>].
 
 
-- Shi Yu, <b>Zhenghao Liu</b>, Chenyan Xiong, Zhiyuan Liu. OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit. <i> The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023). </i> [<A href="https://dl.acm.org/doi/10.1145/3539618.3591813" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/OpenMatch" target="_blank">codes</A>].
+- Shi Yu, <b>Zhenghao Liu</b>, Chenyan Xiong, Zhiyuan Liu. OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit. <i> SIGIR 2023. </i> [<A href="https://dl.acm.org/doi/10.1145/3539618.3591813" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/OpenMatch" target="_blank">codes</A>].
 
-- Xinze Li, <b>Zhenghao Liu</b>#, Chenyan Xiong, Shi Yu, Yu Gu, Zhiyuan Liu, Ge Yu. Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data. <i> Findings of the Association for Computational Linguistics: ACL 2023 (ACL 2023). </i> [<A href="https://aclanthology.org/2023.findings-acl.734" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/SANTA" target="_blank">codes</A>].
+- Xinze Li, <b>Zhenghao Liu</b>#, Chenyan Xiong, Shi Yu, Yu Gu, Zhiyuan Liu, Ge Yu. Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data. <i>  ACL 2023: Findings. </i> [<A href="https://aclanthology.org/2023.findings-acl.734" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/SANTA" target="_blank">codes</A>].
 
-- Ruining Chong, Cunliang Kong, Liu Wu, <b>Zhenghao Liu</b>, Ziye Jin, Liner Yang, Yange Fan, Hanghang Fan, Erhong Yang. Leveraging Prefix Transfer for Multi-Intent Text Revision. <i> The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). </i> [<A href="https://aclanthology.org/2023.acl-short.105/" target="_blank">pdf</A>].
+- Ruining Chong, Cunliang Kong, Liu Wu, <b>Zhenghao Liu</b>, Ziye Jin, Liner Yang, Yange Fan, Hanghang Fan, Erhong Yang. Leveraging Prefix Transfer for Multi-Intent Text Revision. <i> ACL 2023. </i> [<A href="https://aclanthology.org/2023.acl-short.105/" target="_blank">pdf</A>].
 
 <h3><strong>2022</strong></h3>
 
-- <b>Zhenghao Liu</b>, Han Zhang, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Xiaohua Li. Dimension Reduction for Efficient Dense Retrieval via Conditional Autoencoder. <i> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). </i> [<A href="https://arxiv.org/abs/2205.03284" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ConAE" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Han Zhang, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Xiaohua Li. Dimension Reduction for Efficient Dense Retrieval via Conditional Autoencoder. <i> EMNLP 2022. </i> [<A href="https://arxiv.org/abs/2205.03284" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ConAE" target="_blank">codes</A>].
 
-- Xiaomeng Hu, Shi Yu, Chenyan Xiong, <b>Zhenghao Liu</b>#, Zhiyuan Liu, Ge Yu. P3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning. <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022). </i> [<A href="https://arxiv.org/abs/2205.01886" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/P3Ranker" target="_blank">codes</A>].
+- Xiaomeng Hu, Shi Yu, Chenyan Xiong, <b>Zhenghao Liu</b>#, Zhiyuan Liu, Ge Yu. P3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning. <i> SIGIR 2022. </i> [<A href="https://arxiv.org/abs/2205.01886" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/P3Ranker" target="_blank">codes</A>].
 
 <h3><strong>2021</strong></h3>
 
