@@ -87,9 +87,9 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - Sijia Yao\*, Pengcheng Huang\*,  <b>Zhenghao Liu</b>#, Yu Gu, Yukun Yan, Shi Yu, Ge Yu. ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance. <i> EMNLP 2025. </i> [<A href="https://aclanthology.org/2025.emnlp-main.963/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ExpandR" target="_blank">codes</A>].
 
-- Hao Chen\*, Yukun Yan\*, Sen Mei, Wanxiang Che#, <b>Zhenghao Liu</b>#, Qi Shi, Xinze Li, Yuchun Fan, Pengcheng Huang, Qiushi Xiong, Zhiyuan Liu, Maosong Sun. ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and Optimization for Retrieval-Augmented Generation. <i> NAACL 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.1049/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ClueAnchor" target="_blank">codes</A>].
+- Hao Chen\*, Yukun Yan\*, Sen Mei, Wanxiang Che#, <b>Zhenghao Liu</b>#, Qi Shi, Xinze Li, Yuchun Fan, Pengcheng Huang, Qiushi Xiong, Zhiyuan Liu, Maosong Sun. ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and Optimization for Retrieval-Augmented Generation. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.1049/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ClueAnchor" target="_blank">codes</A>].
 
-- Zhensheng Jin\*, Xinze Li\*, Yifan Ji, Chunyi Peng, <b>Zhenghao Liu</b>#, Qi Shi, Yukun Yan, Shuo Wang, Furong Peng, Ge Yu. ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization. <i> NAACL 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.770/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ReCUT" target="_blank">codes</A>].
+- Zhensheng Jin\*, Xinze Li\*, Yifan Ji, Chunyi Peng, <b>Zhenghao Liu</b>#, Qi Shi, Yukun Yan, Shuo Wang, Furong Peng, Ge Yu. ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.770/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ReCUT" target="_blank">codes</A>].
 
 - Zheni Zeng, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, <b>Zhenghao Liu</b>, Zhiyuan Liu, Maosong Sun. PersLLM: A Personified Training Approach for Large Language Models. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.457/" target="_blank">pdf</A>][<A href="https://github.com/Ellenzzn/PersLLM" target="_blank">codes</A>].
 
@@ -103,7 +103,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 - Mingxing Shao, Tiancheng Zhang, Minghe Yu, <b>Zhenghao Liu</b>, Yifang Yin, Hengyu Liu, Ge Yu. Leveraging Student Profiles and the Mamba Framework to Enhance Knowledge Tracing. <i> ECML-PKDD 2025. </i> [<A href="https://link.springer.com/chapter/10.1007/978-3-032-06109-6_12" target="_blank">pdf</A>][<A href="https://github.com/collegestu1231/DGMKT/tree/master" target="_blank">codes</A>].
 
 
-- Yifan Ji\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Yukun Yan, Shi Yu, Yishan Li, Zhiyuan Liu, Yu Gu, Ge Yu, Maosong Sun. <i> SIGIR-AP 2025. </i> [<A href="https://dasfaa2025.github.io/paper/research/research_886_paper.pdf" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CorrectFEC" target="_blank">codes</A>].
+- Yifan Ji\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Yukun Yan, Shi Yu, Yishan Li, Zhiyuan Liu, Yu Gu, Ge Yu, Maosong Sun. Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking. <i> SIGIR-AP 2025. </i> [<A href="https://arxiv.org/abs/2502.12974" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/DEBATER" target="_blank">codes</A>].
 
 
 
