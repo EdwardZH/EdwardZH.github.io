@@ -22,8 +22,8 @@ Zhenghao Liu (刘正皓), Associate Professor of Northeastern University, is a v
 I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAAAJ" target="_blank">于戈</a>) and Yu Gu (<a href="https://scholar.google.com/citations?user=IDYbTZwAAAAJ" target="_blank">谷峪</a>). I also collaborate with Zhiyuan Liu (<a href="https://scholar.google.com/citations?user=dT0v5u0AAAAJ" target="_blank">刘知远</a>), Chenyan Xiong (<a href="https://scholar.google.com/citations?user=E9BaEBYAAAAJ" target="_blank">熊辰炎</a>), Shuo Wang (<a href="https://scholar.google.com/citations?user=5vm5yAMAAAAJ" target="_blank">王硕</a>), Yukun Yan (<a href="https://scholar.google.com/citations?user=B88nSvIAAAAJ" target="_blank">闫宇坤</a>), Shi Yu (<a href="https://scholar.google.com/citations?user=xcMVPTgAAAAJ" target="_blank">于是</a>), Liner Yang (<a href="https://scholar.google.com/citations?user=mupyk1sAAAAJ" target="_blank">杨麟儿</a>), and Zulong Chen (<a href="https://scholar.google.com/citations?user=nUVmSqUAAAAJ" target="_blank">陈祖龙</a>) from Tsinghua University, Carnegie Mellon University, Beijing Language and Culture University, and Alibaba closely. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=4vrZRk0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 We have three papers accepted by ACL 2025. 
-- *2025.01*: &nbsp;🎉🎉 We are excited to announce the release of the <a href="https://github.com/OpenBMB/UltraRAG" target="_blank">UltraRAG</a> Toolkit!
+- *2025.10*: &nbsp; Our paper has been awarded the Best Paper Award at the 2025 International Conference on Advanced Data Mining and Applications (ADMA 2025)! 🏆 
+- *2025.01*: &nbsp;🎉🎉  <a href="https://github.com/OpenBMB/UltraRAG" target="_blank">UltraRAG 2.0 (MCP version)</a> has been officially released—a modular RAG framework built on the Model Context Protocol with native pipeline control!
 - *2024.09*: &nbsp;🎉🎉 We are excited to announce the release of the MiniCPM-RAG LoRA Toolkit, which has already garnered over 320,000 downloads!
 
 
@@ -44,7 +44,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 - Web Chair of CCL 2024.
 - Publication Chair of ACL 2025, CCL 2025.
 - Poster Chair of WISA 2024.
-- Area Chair of ACL ARR, COLING, ICTIR.
+- Area Chair of ACL ARR, ICLR, COLING, ICTIR.
 - Conference Review: NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, COLING, WebConf, ECAI, AAAI, EACL, COLM.
 - Journal Review: TPAMI, TKDE, FCS, IEEE Transactions on Big Data, AI Open, TOIS, Science China.
 
@@ -67,16 +67,43 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - Kunlun Zhu, Yifan Luo, Dingling Xu, Yukun Yan, <b>Zhenghao Liu</b>, Shi Yu, Ruobing Wang, Shuo Wang, Yishan Li, Nan Zhang, Xu Han, Zhiyuan Liu, Maosong Sun. RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework. <i> ACL 2025. </i> [<A href="https://aclanthology.org/2025.acl-long.418.pdf" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/RAGEval" target="_blank">codes</A>].
 
+
+- Qiushi Xiong, Zhipeng Xu, <b>Zhenghao Liu</b>#, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu. Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph. <i> SIGIR 2025. </i> [<A href="https://dl.acm.org/doi/10.1145/3726302.3729970" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/MemGraph" target="_blank">codes</A>].
+
+
+- Pengcheng Huang, <b>Zhenghao Liu</b>#, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong. ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation. <i> NeurIPS 2025. </i> [<A href="https://openreview.net/forum?id=CyUq9D99vE" target="_blank">pdf</A>][<A href="https://openreview.net/forum?id=CyUq9D99vE" target="_blank">codes</A>].
+
+
+- Xiaoang Xu, Shuo Wang, Xu Han, Zhenghao Liu, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He. A\*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings. <i> NeurIPS 2025. </i> [<A href="https://arxiv.org/abs/2505.24550" target="_blank">pdf</A>][<A href="https://github.com/AI9Stars/AStar-Thought" target="_blank">codes</A>].
+
+
 - Xinze Li, Sen Mei, <b>Zhenghao Liu</b>#, Yukun Yan#, Shuo Wang, Shi Yu, Zheni Zeng, Hao Chen, Ge Yu, Zhiyuan Liu, Maosong Sun, Chenyan Xiong. RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards. <i> ICLR 2025. </i> [<A href="https://arxiv.org/abs/2410.13509" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/RAG-DDR" target="_blank">codes</A>].
 
 - Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, <b>Zhenghao Liu</b>, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents. <i> ICLR 2025. </i> [<A href="https://arxiv.org/pdf/2410.10594" target="_blank">pdf</A>][<A href="https://github.com/openbmb/visrag" target="_blank">codes</A>].
 
 - Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin, <b>Zhenghao Liu</b>, Bowen Zhou, Hao Peng, Zhiyuan Liu, Maosong Sun. Advancing llm reasoning generalists with preference trees. <i> ICLR 2025. </i> [<A href="https://arxiv.org/pdf/2404.02078" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/Eurus" target="_blank">codes</A>].
 
-- <b>Zhenghao Liu</b>, Xingsheng Zhu, Tianshuo Zhou, Xinyi Zhang, Xiaoyuan Yi, Yukun Yan, Ge Yu, Maosong Sun. Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts. <i> MM 2025. </i> [<A href="https://arxiv.org/abs/2502.17297" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/M2RAG" target="_blank">codes</A>].
+- <b>Zhenghao Liu</b>, Xingsheng Zhu, Tianshuo Zhou, Xinyi Zhang, Xiaoyuan Yi, Yukun Yan, Ge Yu, Maosong Sun. Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts. <i> MM 2025. </i> [<A href="https://dl.acm.org/doi/10.1145/3746027.3755625" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/M2RAG" target="_blank">codes</A>].
 
-- Weiqing Yang, Hanbin Wang, <b>Zhenghao Liu</b>#, Xinze Li, Yukun Yan, Shuo Wang, Yu Gu, Minghe Yu, Zhiyuan Liu, Ge Yu. COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis. <i> NAACL 2025: Findings. </i> [<A href="hhttps://arxiv.org/abs/2408.05006" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/COAST" target="_blank">codes</A>].
+- Sijia Yao\*, Pengcheng Huang\*,  <b>Zhenghao Liu</b>#, Yu Gu, Yukun Yan, Shi Yu, Ge Yu. ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance. <i> EMNLP 2025. </i> [<A href="https://aclanthology.org/2025.emnlp-main.963/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ExpandR" target="_blank">codes</A>].
 
+- Hao Chen\*, Yukun Yan\*, Sen Mei, Wanxiang Che#, <b>Zhenghao Liu</b>#, Qi Shi, Xinze Li, Yuchun Fan, Pengcheng Huang, Qiushi Xiong, Zhiyuan Liu, Maosong Sun. ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and Optimization for Retrieval-Augmented Generation. <i> NAACL 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.1049/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/ClueAnchor" target="_blank">codes</A>].
+
+- Zhensheng Jin\*, Xinze Li\*, Yifan Ji, Chunyi Peng, <b>Zhenghao Liu</b>#, Qi Shi, Yukun Yan, Shuo Wang, Furong Peng, Ge Yu. ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization. <i> NAACL 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.770/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ReCUT" target="_blank">codes</A>].
+
+- Zheni Zeng, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, <b>Zhenghao Liu</b>, Zhiyuan Liu, Maosong Sun. PersLLM: A Personified Training Approach for Large Language Models. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.457/" target="_blank">pdf</A>].
+
+- Ruobing Wang, Qingfei Zhao, Yukun Yan, Daren Zha, Yuxuan Chen, Shi Yu, Zhenghao Liu, Yixuan Wang, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. DeepNote: Note-Centric Deep Retrieval-Augmented Generation. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.1073/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DeepNote" target="_blank">codes</A>].
+
+- Zheni Zeng\*, Yuxuan Chen\*, Shi Yu, Ruobing Wang, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. KBAlign: Efficient Self Adaptation on Specific Textual Knowledge Bases. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.728/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/KBAlign" target="_blank">codes</A>].
+
+
+- Weiqing Yang, Hanbin Wang, <b>Zhenghao Liu</b>#, Xinze Li, Yukun Yan, Shuo Wang, Yu Gu, Minghe Yu, Zhiyuan Liu, Ge Yu. COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis. <i> NAACL 2025: Findings. </i> [<A href="https://arxiv.org/abs/2408.05006" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/COAST" target="_blank">codes</A>].
+
+- Mingxing Shao, Tiancheng Zhang, Minghe Yu, Zhenghao Liu, Yifang Yin, Hengyu Liu, Ge Yu. Leveraging Student Profiles and the Mamba Framework to Enhance Knowledge Tracing. <i> ECML-PKDD 2025. </i> [<A href="https://link.springer.com/chapter/10.1007/978-3-032-06109-6_12" target="_blank">pdf</A>][<A href="https://github.com/collegestu1231/DGMKT/tree/master" target="_blank">codes</A>].
+
+
+- Yifan Ji, Zhipeng Xu, <b>Zhenghao Liu</b>#, Yukun Yan, Shi Yu, Yishan Li, Zhiyuan Liu, Yu Gu, Ge Yu, Maosong Sun. <i> NAACL 2025: Findings. </i> [<A href="https://dasfaa2025.github.io/paper/research/research_886_paper.pdf" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CorrectFEC" target="_blank">codes</A>].
 
 
 
