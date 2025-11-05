@@ -74,10 +74,10 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 - Pengcheng Huang, <b>Zhenghao Liu</b>#, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong. ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation. <i> NeurIPS 2025. </i> [<A href="https://openreview.net/forum?id=CyUq9D99vE" target="_blank">pdf</A>][<A href="https://openreview.net/forum?id=CyUq9D99vE" target="_blank">codes</A>].
 
 
-- Xiaoang Xu, Shuo Wang, Xu Han, Zhenghao Liu, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He. A\*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings. <i> NeurIPS 2025. </i> [<A href="https://arxiv.org/abs/2505.24550" target="_blank">pdf</A>][<A href="https://github.com/AI9Stars/AStar-Thought" target="_blank">codes</A>].
+- Xiaoang Xu, Shuo Wang, Xu Han, <b>Zhenghao Liu</b>, Huijia Wu, Peipei Li, Zhiyuan Liu, Maosong Sun, Zhaofeng He. A\*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings. <i> NeurIPS 2025. </i> [<A href="https://arxiv.org/abs/2505.24550" target="_blank">pdf</A>][<A href="https://github.com/AI9Stars/AStar-Thought" target="_blank">codes</A>].
 
 
-- Xinze Li, Sen Mei, <b>Zhenghao Liu</b>#, Yukun Yan#, Shuo Wang, Shi Yu, Zheni Zeng, Hao Chen, Ge Yu, Zhiyuan Liu, Maosong Sun, Chenyan Xiong. RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards. <i> ICLR 2025. </i> [<A href="https://arxiv.org/abs/2410.13509" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/RAG-DDR" target="_blank">codes</A>].
+- Xinze Li\*, Sen Mei\*, <b>Zhenghao Liu</b>#, Yukun Yan#, Shuo Wang, Shi Yu, Zheni Zeng, Hao Chen, Ge Yu, Zhiyuan Liu, Maosong Sun, Chenyan Xiong. RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards. <i> ICLR 2025. </i> [<A href="https://arxiv.org/abs/2410.13509" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/RAG-DDR" target="_blank">codes</A>].
 
 - Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, <b>Zhenghao Liu</b>, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents. <i> ICLR 2025. </i> [<A href="https://arxiv.org/pdf/2410.10594" target="_blank">pdf</A>][<A href="https://github.com/openbmb/visrag" target="_blank">codes</A>].
 
@@ -93,17 +93,17 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - Zheni Zeng, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, <b>Zhenghao Liu</b>, Zhiyuan Liu, Maosong Sun. PersLLM: A Personified Training Approach for Large Language Models. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.457/" target="_blank">pdf</A>].
 
-- Ruobing Wang, Qingfei Zhao, Yukun Yan, Daren Zha, Yuxuan Chen, Shi Yu, Zhenghao Liu, Yixuan Wang, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. DeepNote: Note-Centric Deep Retrieval-Augmented Generation. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.1073/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DeepNote" target="_blank">codes</A>].
+- Ruobing Wang, Qingfei Zhao, Yukun Yan, Daren Zha, Yuxuan Chen, Shi Yu, <b>Zhenghao Liu</b>, Yixuan Wang, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. DeepNote: Note-Centric Deep Retrieval-Augmented Generation. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.1073/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DeepNote" target="_blank">codes</A>].
 
-- Zheni Zeng\*, Yuxuan Chen\*, Shi Yu, Ruobing Wang, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. KBAlign: Efficient Self Adaptation on Specific Textual Knowledge Bases. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.728/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/KBAlign" target="_blank">codes</A>].
+- Zheni Zeng\*, Yuxuan Chen\*, Shi Yu, Ruobing Wang, Yukun Yan, <b>Zhenghao Liu</b>, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. KBAlign: Efficient Self Adaptation on Specific Textual Knowledge Bases. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.728/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/KBAlign" target="_blank">codes</A>].
 
 
 - Weiqing Yang, Hanbin Wang, <b>Zhenghao Liu</b>#, Xinze Li, Yukun Yan, Shuo Wang, Yu Gu, Minghe Yu, Zhiyuan Liu, Ge Yu. COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis. <i> NAACL 2025: Findings. </i> [<A href="https://arxiv.org/abs/2408.05006" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/COAST" target="_blank">codes</A>].
 
-- Mingxing Shao, Tiancheng Zhang, Minghe Yu, Zhenghao Liu, Yifang Yin, Hengyu Liu, Ge Yu. Leveraging Student Profiles and the Mamba Framework to Enhance Knowledge Tracing. <i> ECML-PKDD 2025. </i> [<A href="https://link.springer.com/chapter/10.1007/978-3-032-06109-6_12" target="_blank">pdf</A>][<A href="https://github.com/collegestu1231/DGMKT/tree/master" target="_blank">codes</A>].
+- Mingxing Shao, Tiancheng Zhang, Minghe Yu, <b>Zhenghao Liu</b>, Yifang Yin, Hengyu Liu, Ge Yu. Leveraging Student Profiles and the Mamba Framework to Enhance Knowledge Tracing. <i> ECML-PKDD 2025. </i> [<A href="https://link.springer.com/chapter/10.1007/978-3-032-06109-6_12" target="_blank">pdf</A>][<A href="https://github.com/collegestu1231/DGMKT/tree/master" target="_blank">codes</A>].
 
 
-- Yifan Ji, Zhipeng Xu, <b>Zhenghao Liu</b>#, Yukun Yan, Shi Yu, Yishan Li, Zhiyuan Liu, Yu Gu, Ge Yu, Maosong Sun. <i> NAACL 2025: Findings. </i> [<A href="https://dasfaa2025.github.io/paper/research/research_886_paper.pdf" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CorrectFEC" target="_blank">codes</A>].
+- Yifan Ji\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Yukun Yan, Shi Yu, Yishan Li, Zhiyuan Liu, Yu Gu, Ge Yu, Maosong Sun. <i> SIGIR-AP 2025. </i> [<A href="https://dasfaa2025.github.io/paper/research/research_886_paper.pdf" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/CorrectFEC" target="_blank">codes</A>].
 
 
 
