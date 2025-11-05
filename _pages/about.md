@@ -23,6 +23,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 # 🔥 News
 - *2025.10*: &nbsp; Our paper has been awarded the Best Paper Award at the 2025 International Conference on Advanced Data Mining and Applications (ADMA 2025)! 🏆 
+- *2025.06*: &nbsp; Our work (ParamMute) received the Highlight Poster Award 🏆 at YSSNLP 2025 ! Congratulations! 🎉
 - *2025.01*: &nbsp;🎉🎉  <a href="https://github.com/OpenBMB/UltraRAG" target="_blank">UltraRAG 2.0 (MCP version)</a> has been officially released—a modular RAG framework built on the Model Context Protocol with native pipeline control!
 - *2024.09*: &nbsp;🎉🎉 We are excited to announce the release of the MiniCPM-RAG LoRA Toolkit, which has already garnered over 320,000 downloads!
 
