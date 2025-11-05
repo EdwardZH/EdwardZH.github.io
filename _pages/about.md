@@ -91,7 +91,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - Zhensheng Jin\*, Xinze Li\*, Yifan Ji, Chunyi Peng, <b>Zhenghao Liu</b>#, Qi Shi, Yukun Yan, Shuo Wang, Furong Peng, Ge Yu. ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization. <i> NAACL 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.770/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ReCUT" target="_blank">codes</A>].
 
-- Zheni Zeng, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, <b>Zhenghao Liu</b>, Zhiyuan Liu, Maosong Sun. PersLLM: A Personified Training Approach for Large Language Models. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.457/" target="_blank">pdf</A>].
+- Zheni Zeng, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, <b>Zhenghao Liu</b>, Zhiyuan Liu, Maosong Sun. PersLLM: A Personified Training Approach for Large Language Models. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.457/" target="_blank">pdf</A>][<A href="https://github.com/Ellenzzn/PersLLM" target="_blank">codes</A>].
 
 - Ruobing Wang, Qingfei Zhao, Yukun Yan, Daren Zha, Yuxuan Chen, Shi Yu, <b>Zhenghao Liu</b>, Yixuan Wang, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. DeepNote: Note-Centric Deep Retrieval-Augmented Generation. <i> EMNLP 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-emnlp.1073/" target="_blank">pdf</A>][<A href="https://github.com/thunlp/DeepNote" target="_blank">codes</A>].
 
