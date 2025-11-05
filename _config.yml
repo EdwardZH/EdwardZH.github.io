@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4vrZRk0AAAAJ"
-  email            : "liuzhenghao@mail.neu.edu.cn"
+  email            : "liuzhenghao@neu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/EdwardZH
+  github           : EdwardZH
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/243/2880.html
+  dblp             : https://dblp.org/pid/243/2880-1.html
   orcid            : https://orcid.org/0000-0003-0083-3224
   pinterest        :
   soundcloud       :
