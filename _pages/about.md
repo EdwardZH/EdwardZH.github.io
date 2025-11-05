@@ -106,7 +106,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - Yifan Ji\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Yukun Yan, Shi Yu, Yishan Li, Zhiyuan Liu, Yu Gu, Ge Yu, Maosong Sun. Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking. <i> SIGIR-AP 2025. </i> [<A href="https://arxiv.org/abs/2502.12974" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/DEBATER" target="_blank">codes</A>].
 
-- Buqiang Xu\*, Xin Dai\*, <b>Zhenghao Liu</b>#, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Yukun Yan, Liner Yang, Yu Gu, Ge Yu. Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking. <i> SIGIR-AP 2025. </i> [<A href="https://link.springer.com/chapter/10.1007/978-981-95-3453-1_23" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/LegalDuet" target="_blank">codes</A>].
+- Buqiang Xu\*, Xin Dai\*, <b>Zhenghao Liu</b>#, Huiyuan Xie, Xiaoyuan Yi, Shuo Wang, Yukun Yan, Liner Yang, Yu Gu, Ge Yu. Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking. <i> ADMA 2025. </i> [<A href="https://link.springer.com/chapter/10.1007/978-981-95-3453-1_23" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/LegalDuet" target="_blank">codes</A>].
 
 
 
