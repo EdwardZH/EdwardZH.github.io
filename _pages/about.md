@@ -63,7 +63,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 <h3><strong>2026</strong></h3>
 
-- <b>Zhenghao Liu</b>, Pengcheng Huang, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng, Haidong Xin, Yukun Yan#, Shuo Wang, Xu Han, Zhiyuan Liu#, Maosong Sun, Yu Gu, Ge Yu. ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment. <i> AI Open. </i> [<A href="https://www.sciencedirect.com/science/article/pii/S2666651026000033" target="_blank">pdf</A>].
+- <b>Zhenghao Liu</b>, Pengcheng Huang, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng, Haidong Xin, Yukun Yan#, Shuo Wang, Xu Han, Zhiyuan Liu#, Maosong Sun, Yu Gu, Ge Yu. Knowledge intensive agents. <i> AI Open. </i> [<A href="https://www.sciencedirect.com/science/article/pii/S2666651026000033" target="_blank">pdf</A>].
 
 - Haidong Xin, <b>Zhenghao Liu</b>#, Sen Mei, Yukun Yan, Shi Yu, Shuo Wang, Yu Chen, Zulong, Gu, Ge Yu, Chenyan Xiong. LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation. <i> KDD 2026. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3770854.3780337" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/LISRec" target="_blank">codes</A>].
 
