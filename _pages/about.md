@@ -65,12 +65,9 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - <b>Zhenghao Liu</b>, Pengcheng Huang, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng, Haidong Xin, Yukun Yan#, Shuo Wang, Xu Han, Zhiyuan Liu#, Maosong Sun, Yu Gu, Ge Yu. ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment. <i> AI Open. </i> [<A href="https://www.sciencedirect.com/science/article/pii/S2666651026000033" target="_blank">pdf</A>].
 
-
 - Haidong Xin, <b>Zhenghao Liu</b>#, Sen Mei, Yukun Yan, Shi Yu, Shuo Wang, Yu Chen, Zulong, Gu, Ge Yu, Chenyan Xiong. LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation. <i> KDD 2026. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3770854.3780337" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/LISRec" target="_blank">codes</A>].
 
-
 - Chunyi Peng\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Yishan Li, Yukun Yan, Shuo Wang, Yu Gu, Minghe Yu, Ge Yu, Maosong Sun. Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation. <i> SIGIR 2026. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3805712.3809588" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/MoRE" target="_blank">codes</A>].
-
 
 - Hao Yang\*, Yifan Ji\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Yukun Yan, Zulong Chen, Shuo Wang, Yu Gu, Ge Yu. ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment. <i> SIGIR 2026. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3805712.3809602" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ReAlign" target="_blank">codes</A>].
 
@@ -101,6 +98,8 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 - He Wang, Yu Gu, Fangfang Li#, Zhigang Wang, <b>Zhenghao Liu</b>, Ning Wang, Xiaohua Li, Ge Yu. HqeKV: Towards Hybrid Quantization and Eviction for KV Cache in Long-Context LLM Inference. <i> ACL 2026: Findings. </i> [<A href="https://aclanthology.org/2026.findings-acl.201/" target="_blank">pdf</A>][<A href="https://github.com/skywclouds/HqeKV" target="_blank">codes</A>].
 
 - Hao Chen, Ye He, Yuchun Fan, Yukun Yan#, <b>Zhenghao Liu</b>, Qingfu Zhu, Maosong Sun, Wanxiang Che#. Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models. <i> ICML 2026. </i> [<A href="https://openreview.net/pdf?id=ENuMNYCiV6" target="_blank">pdf</A>][<A href="https://github.com/AI9Stars/Know-More-Know-Clearer" target="_blank">codes</A>].
+
+- Heng Rao, Jason Zipeng Zhang, Yu Gu#, <b>Zhenghao Liu</b>, Ge Yu, Jeffrey Su, Yang Cao, Fan Yang, Minghan Chen#. A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models. <i> ICML 2026. </i> [<A href="https://openreview.net/pdf?id=sI3UUkXJxs" target="_blank">pdf</A>][<A href="https://huggingface.co/datasets/HengRao/SysBio-Traj" target="_blank">codes</A>].
 
 - Huiyuan Xie\*, Chenyang Li\*, Huining Zhu, Chubin Zhang, Yuxiao Ye#, <b>Zhenghao Liu</b>, Zhiyuan Liu#. LexChain: Modeling Legal Reasoning Chains for Chinese Tort Case Analysis. <i> AAAI 2026. </i> [<A href="https://ojs.aaai.org/index.php/AAAI/article/view/40906" target="_blank">pdf</A>][<A href="https://github.com/thunlp/LexChain" target="_blank">codes</A>].
 
