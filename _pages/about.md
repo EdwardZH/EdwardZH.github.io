@@ -173,7 +173,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 - Tianshuo Zhou, Sen Mei, Xinze Li, <b>Zhenghao Liu</b>#, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu. MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin. <i> ACL 2024. </i> [<A href="https://arxiv.org/abs/2310.14037" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/MARVEL" target="_blank">codes</A>].
 
-- Hanbin Wang, <b>Zhenghao Liu</b>#, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu . INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair. <i> ACL 2024: Findings. </i> [<A href="https://arxiv.org/abs/2311.09868" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/INTERVENOR" target="_blank">codes</A>].
+- Hanbin Wang, <b>Zhenghao Liu</b>#, Shuo Wang, Ganqu Cui, Ning Ding, Zhiyuan Liu, Ge Yu. INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair. <i> ACL 2024: Findings. </i> [<A href="https://arxiv.org/abs/2311.09868" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/INTERVENOR" target="_blank">codes</A>].
 
 - Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, Yuzhuang Xu, <b>Zhenghao Liu</b>, Liner Yang, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun. UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset. <i> ACL 2024. </i> [<A href="https://arxiv.org/abs/2402.04588" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/UltraLink" target="_blank">codes</A>].
 
