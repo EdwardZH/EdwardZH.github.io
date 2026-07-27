@@ -46,8 +46,8 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 - Web Chair of CCL 2024.
 - Publication Chair of ACL 2025, CCL 2025.
 - Poster Chair of WISA 2024.
-- Area Chair of ACL ARR, ICLR, COLING, ICTIR.
-- Conference Review: NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, COLING, WebConf, ECAI, AAAI, EACL, COLM.
+- Area Chair of NeurIPS, ICML, ACL ARR, ICLR, COLING, ICTIR.
+- Conference Review: WebConf, ECAI, AAAI, EACL, COLM.
 - Journal Review: TPAMI, TKDE, FCS, IEEE Transactions on Big Data, AI Open, TOIS, Science China.
 
 
@@ -61,9 +61,66 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
  # indicates corresponding author.
  </ul>
 
+<h3><strong>2026</strong></h3>
+
+- <b>Zhenghao Liu</b>, Pengcheng Huang, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng, Haidong Xin, Yukun Yan#, Shuo Wang, Xu Han, Zhiyuan Liu#, Maosong Sun, Yu Gu, Ge Yu. ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment. <i> AI Open. </i> [<A href="https://www.sciencedirect.com/science/article/pii/S2666651026000033" target="_blank">pdf</A>].
+
+
+- Haidong Xin, <b>Zhenghao Liu</b>#, Sen Mei, Yukun Yan, Shi Yu, Shuo Wang, Yu Chen, Zulong, Gu, Ge Yu, Chenyan Xiong. LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation. <i> KDD 2026. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3770854.3780337" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/LISRec" target="_blank">codes</A>].
+
+
+- Chunyi Peng\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Yishan Li, Yukun Yan, Shuo Wang, Yu Gu, Minghe Yu, Ge Yu, Maosong Sun. Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation. <i> SIGIR 2026. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3805712.3809588" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/MoRE" target="_blank">codes</A>].
+
+
+- Hao Yang\*, Yifan Ji\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Yukun Yan, Zulong Chen, Shuo Wang, Yu Gu, Ge Yu. ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment. <i> SIGIR 2026. </i> [<A href="https://dl.acm.org/doi/abs/10.1145/3805712.3809602" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ReAlign" target="_blank">codes</A>].
+
+- <b>Zhenghao Liu</b>#\*, Zhuoyang Wu\*, Xinze Li, Yukun Yan, Shuo Wang, Zulong Chen, Yu Gu, Ge Yu, Maosong Sun. LexRel: Benchmarking Legal Relation Extraction for Chinese Civil Cases. <i> ACL 2026. </i> [<A href="https://aclanthology.org/2026.acl-long.822/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/P-ALIGN" target="_blank">codes</A>].
+
+- Pengcheng Huang, Tianming Liu, <b>Zhenghao Liu</b>#, Yukun Yan, Shuo Wang, Tong Xiao, Zulong Chen, Maosong Sun. Empirical Analysis of Decoding Biases in Masked Diffusion Models. <i> ACL 2026. </i> [<A href="https://aclanthology.org/2026.acl-long.311/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/Uncode" target="_blank">codes</A>].
+
+- Yifan Ji\*, Zhipeng Xu\*, <b>Zhenghao Liu</b>#, Zulong Chen, Qian Zhang, Zhibo Yang, Junyang Lin, Yu Gu, Ge Yu, Maosong Sun. UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents. <i> ACL 2026. </i> [<A href="https://aclanthology.org/2026.acl-long.287/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/UNIKIE-BENCH" target="_blank">codes</A>].
+
+- Shaohua Duan\*, Pengcheng Huang\*, Xinze Li, <b>Zhenghao Liu</b>#, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun. Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization. <i> ACL 2026. </i> [<A href="https://aclanthology.org/2026.acl-long.161/" target="_blank">pdf</A>][<A href="hhttps://github.com/NEUIR/LongMab-PO" target="_blank">codes</A>].
+
+- Dingling Xu\*, Ruobing Wang\*, Qingfei Zhao, Yukun Yan#, Zhichun Wang#, Daren Zha, Shi Yu, <b>Zhenghao Liu</b>, Shuo Wang, Xu Han, Maosong Sun. TCheckRLM: Effective Knowledge–Thought Coherence Checking in Retrieval-Augmented Reasoning. <i> ACL 2026. </i> [<A href="https://aclanthology.org/2026.acl-long.819/" target="_blank">pdf</A>][<A href="https://github.com/AI9Stars/CheckRLM" target="_blank">codes</A>].
+
+- Fan Li, Yu Gu#, Zhigang Wang, Fangling Leng, <b>Zhenghao Liu</b>, Ge Yu. Towards Efficient and Effective Diffusion Language Model Inference via Semantic-Aware Adaptive Denoising. <i> ACL 2026. </i> [<A href="https://aclanthology.org/2026.acl-long.819/" target="_blank">pdf</A>].
+
+- Yida Cai, Ranjuexiao Hu, Huiyuan Xie#, Chenyang Li, Yun Liu, Yuxiao Ye, <b>Zhenghao Liu</b>, Weixing Shen, Zhiyuan Liu#. LexRel: Benchmarking Legal Relation Extraction for Chinese Civil Cases. <i> ACL 2026. </i> [<A href="https://aclanthology.org/2026.acl-long.980/" target="_blank">pdf</A>][<A href=" https://github.com/thunlp/LexRel" target="_blank">codes</A>].
+
+- Haidong Xin, Xinze Li, <b>Zhenghao Liu</b>#, Yukun Yan#, Shuo Wang, Cheng Yang, Yu Gu, Ge Yu, Maosong Sun. MetaMem: Evolving Meta-Memory for Knowledge Utilization through Self-Reflective Symbolic Optimization. <i> ACL 2026: Findings. </i> [<A href="https://aclanthology.org/2026.findings-acl.270/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/MetaMem" target="_blank">codes</A>].
+
+- Xin Dai, Pengcheng Huang, <b>Zhenghao Liu</b>#, Shuo Wang#, Yukun Yan, Chaojun Xiao, Yu Gu, Ge Yu, Maosong Sun. Revealing the Attention Floating Mechanism in Masked Diffusion Models. <i> ACL 2026: Findings. </i> [<A href="https://aclanthology.org/2026.findings-acl.404/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/Attention-Floating" target="_blank">codes</A>].
+
+- Yuqi Xiong, Chunyi Peng, Zhipeng Xu, <b>Zhenghao Liu</b>#, Zulong Chen, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu. Lang2Act: Fine-Grained Visual Reasoning through Self-Emergent Linguistic Toolchains. <i> ACL 2026: Findings. </i> [<A href="https://aclanthology.org/2026.findings-acl.409/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/Lang2Act" target="_blank">codes</A>].
+
+- Shuliang Liu, Zhipeng Xu, <b>Zhenghao Liu</b>#, Yukun Yan, Minghe Yu, Yu Gu, Chong Chen, Huiyuan Xie, Ge Yu. Mitigating Judgment Preference Bias in Large Language Models through Group-Based Polling. <i> ACL 2026: Findings. </i> [<A href="https://aclanthology.org/2026.findings-acl.71/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/Genii" target="_blank">codes</A>].
+
+- Zhuoyang Wu, Xinze Li, <b>Zhenghao Liu</b>#, Yukun Yan, Zhiyuan Liu, Minghe Yu, Cheng Yang, Yu Gu, Ge Yu, Maosong Sun. Enhancing Long-Chain Reasoning Distillation through Error-Aware Self-Reflection. <i> ACL 2026: Findings. </i> [<A href="https://aclanthology.org/2026.findings-acl.72/" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/ORION" target="_blank">codes</A>].
+
+- He Wang, Yu Gu, Fangfang Li#, Zhigang Wang, <b>Zhenghao Liu</b>, Ning Wang, Xiaohua Li, Ge Yu. HqeKV: Towards Hybrid Quantization and Eviction for KV Cache in Long-Context LLM Inference. <i> ACL 2026: Findings. </i> [<A href="https://aclanthology.org/2026.findings-acl.201/" target="_blank">pdf</A>][<A href="https://github.com/skywclouds/HqeKV" target="_blank">codes</A>].
+
+- Hao Chen, Ye He, Yuchun Fan, Yukun Yan#, <b>Zhenghao Liu</b>, Qingfu Zhu, Maosong Sun, Wanxiang Che#. Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models. <i> ICML 2026. </i> [<A href="https://openreview.net/pdf?id=ENuMNYCiV6" target="_blank">pdf</A>][<A href="https://github.com/AI9Stars/Know-More-Know-Clearer" target="_blank">codes</A>].
+
+- Huiyuan Xie\*, Chenyang Li\*, Huining Zhu, Chubin Zhang, Yuxiao Ye#, <b>Zhenghao Liu</b>, Zhiyuan Liu#. LexChain: Modeling Legal Reasoning Chains for Chinese Tort Case Analysis. <i> AAAI 2026. </i> [<A href="https://ojs.aaai.org/index.php/AAAI/article/view/40906" target="_blank">pdf</A>][<A href="https://github.com/thunlp/LexChain" target="_blank">codes</A>].
+
+- Boyu Chen, Zirui Guo, Zidan Yang, Yuluo Chen, Junze Chen, <b>Zhenghao Liu</b>, Chuan Shi, Cheng Yang#. PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths. <i> AAAI 2026. </i> [<A href="https://arxiv.org/pdf/2502.14902" target="_blank">pdf</A>][<A href="https://github.com/BUPT-GAMMA/PathRAG" target="_blank">codes</A>].
+
+- Haolan Wang, <b>Zhenghao Liu</b>, Xinze Li, Xiaocui Yang, Yu Gu, Yukun Yan, Qi Shi, Fangfang Li#, Chong Chen, Ge Yu. PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths. <i> AAAI 2026. </i> [<A href="https://link.springer.com/chapter/10.1007/978-981-92-0372-7_13" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/HIPPO" target="_blank">codes</A>].
+
+- Xin Dai\*, Buqiang Xu\*, <b>Zhenghao Liu</b>#, Yukun Yan, Huiyuan Xie, Xiaoyuan Yi. Legal∆: Enhancing Legal Reasoning in LLMS via Reinforcement Learning with Chain-Of-Thought Guided Information Gain. <i> ICASSP 2026. </i> [<A href="https://ieeexplore.ieee.org/document/11464256" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/LegalDelta" target="_blank">codes</A>].
+
+- Yuqing Lan, <b>Zhenghao Liu</b>#, Yu Gu#, Ge Yu. EDITMEM: Enhancing Multi-Hop Fact Verification Via Editable Memory. <i> ICASSP 2026. </i> [<A href="https://ieeexplore.ieee.org/abstract/document/11463827" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/EditMem" target="_blank">codes</A>].
+
+- Qing Yang, <b>Zhenghao Liu</b>#, Junxin Wang, Yangfan Du, Pengcheng Huang, Tong Xiao#. RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF. <i> IJCNN 2026. </i> [<A href="https://arxiv.org/pdf/2510.14628v1" target="_blank">pdf</A>][<A href="https://github.com/Zoe-Mango/RLAIF-SPA" target="_blank">codes</A>].
+
+- Zhipeng Xu, <b>Zhenghao Liu</b>#, Yukun Yan, Shuo Wang, Shi Yu, Zheni Zeng, Chaojun Xiao, Zhiyuan Liu, Ge Yu, Chenyan Xiong. ThinkNote: Enhancing Knowledge Integration and Utilization of Large Language Models via Constructivist Cognition Modeling. <i> EACL 2026: Findings. </i> [<A href="https://aclanthology.org/2026.findings-eacl.12/" target="_blank">pdf</A>][<A href="https://github.com/OpenMatch/ThinkNote" target="_blank">codes</A>].
+
+
+
 <h3><strong>2025</strong></h3>
 
-- Mingyan Wu, <b>Zhenghao Liu</b>#, Yukun Yan, Xinze Li, Shi Yu, Zheni Zeng, Yu Gu, Ge Yu. RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts. <i> ACL 2025. </i> [<A href="https://aclanthology.org/2025.acl-long.629.pdf" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/RankCoT" target="_blank">codes</A>].
+- Mingyan Wu, <b>Zhenghao Liu</b>#, Yukun Yan#, Xinze Li, Shi Yu, Zheni Zeng, Yu Gu, Ge Yu. RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts. <i> ACL 2025. </i> [<A href="https://aclanthology.org/2025.acl-long.629.pdf" target="_blank">pdf</A>][<A href="https://github.com/NEUIR/RankCoT" target="_blank">codes</A>].
 
 - Shuliang Liu, Xinze Li, <b>Zhenghao Liu</b>#, Yukun Yan, Cheng Yang, Zheni Zeng, Zhiyuan Liu, Maosong Sun, Ge Yu. Judge as A Judge: Improving the Evaluation of Retrieval-Augmented Generation through the Judge-Consistency of Large Language Models. <i> ACL 2025: Findings. </i> [<A href="https://aclanthology.org/2025.findings-acl.301.pdf" target="_blank">pdf</A>][<A href="https://github.com/OpenBMB/ConsJudge" target="_blank">codes</A>].
 
