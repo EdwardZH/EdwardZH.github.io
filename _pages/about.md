@@ -29,7 +29,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 - *2024.09*: &nbsp;🎉🎉 We are excited to announce the release of the MiniCPM-RAG LoRA Toolkit, which has already garnered over 320,000 downloads!
 
 
-# 📖 Educations
+# 📖 Education and Employment History
 - *Aug, 2021 - Now*, Dept. of Computer Science and Technology (<a href="https://neuir.github.io" target="_blank">NEU-ModelBest Data Intelligence Joint Lab</a>), Northeastern University, Shenyang, China. 
 - *Aug, 2016 - Jun, 2021*, Dept. of Computer Science and Technology (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>), Tsinghua University, Beijing, China. Supervisor: Maosong Sun (<a href="https://scholar.google.com/citations?user=zIgT0HMAAAAJ" target="_blank">孙茂松</a>).
 - *Sep, 2012 - Jul, 2016*, Dept. of Computer Science and Technology, Northeastern University, Shenyang, China. 
