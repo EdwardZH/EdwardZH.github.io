@@ -30,7 +30,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 
 
 # 📖 Educations
-- *Aug, 2021 - Now*, Dept. of Computer Science and Technology (<a href="https://neuir.github.io" target="_blank">NEUIR Lab</a>), Northeastern University, Shenyang, China. 
+- *Aug, 2021 - Now*, Dept. of Computer Science and Technology (<a href="https://neuir.github.io" target="_blank">NEU-ModelBest Data Intelligence Joint Lab</a>), Northeastern University, Shenyang, China. 
 - *Aug, 2016 - Jun, 2021*, Dept. of Computer Science and Technology (<a href="http://nlp.csai.tsinghua.edu.cn" target="_blank">THUNLP Lab</a>), Tsinghua University, Beijing, China. Supervisor: Maosong Sun (<a href="https://scholar.google.com/citations?user=zIgT0HMAAAAJ" target="_blank">孙茂松</a>).
 - *Sep, 2012 - Jul, 2016*, Dept. of Computer Science and Technology, Northeastern University, Shenyang, China. 
 
@@ -44,7 +44,7 @@ I work with Ge Yu (<a href="https://scholar.google.com/citations?user=HClMOmUAAA
 # 🧑‍🎨 Academic Services
 - Session Chair of ACL 2024, MLNLP 2022-2024.
 - Web Chair of CCL 2024.
-- Publication Chair of ACL 2025, CCL 2025.
+- Publication Chair of ACL 2025, CCL 2025, CCL 2026.
 - Poster Chair of WISA 2024.
 - Area Chair of NeurIPS, ICML, ACL ARR, ICLR, COLING, ICTIR.
 - Conference Review: WebConf, ECAI, AAAI, EACL, COLM.
